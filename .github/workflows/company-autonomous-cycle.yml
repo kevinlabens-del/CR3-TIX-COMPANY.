@@ -1,0 +1,49 @@
+name: CR3@TIX COMPANY Autonomous Cycle
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cr3atix-company-autonomous-cycle
+  cancel-in-progress: false
+
+jobs:
+  company-cycle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout COMPANY
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Test COMPANY CORE
+        run: node company-core/tests/core.test.mjs
+
+      - name: EMP-001 — read CR3@TIX Project and analyze portfolio
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CR3ATIX_OWNER: kevinlabens-del
+        run: node company-core/autonomous-cycle.mjs
+
+      - name: Persist generated company state
+        run: |
+          if git diff --quiet -- company-data/ && [ -z "$(git status --porcelain -- company-data/)" ]; then
+            echo "No company-state change"
+            exit 0
+          fi
+          git config user.name "CR3ATIX-COMPANY[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git add company-data/
+          git commit -m "chore(company): refresh autonomous project analysis"
+          git push
