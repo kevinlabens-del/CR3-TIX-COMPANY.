@@ -1,0 +1,40 @@
+name: CR3@TIX COMPANY Employee Worker
+
+on:
+  workflow_dispatch:
+    inputs:
+      task_path:
+        description: Path to the employee task JSON
+        required: true
+        default: company-core/tasks/example-task.json
+
+permissions:
+  contents: read
+
+env:
+  COMPANY_TASK: ${{ inputs.task_path }}
+
+jobs:
+  employee:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout company
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Run employee program
+        run: node company-core/workers/task-runner.mjs
+
+      - name: Upload employee report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: company-employee-report-${{ github.run_id }}
+          path: company-core/reports/*.json
+          if-no-files-found: warn
+          retention-days: 30
