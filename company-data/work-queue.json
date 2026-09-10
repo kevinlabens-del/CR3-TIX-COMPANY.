@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T16:22:52.654Z",
+  "generatedAt": "2026-09-10T20:50:30.830Z",
   "tasks": [
     {
       "id": "AUTO-github_1262481671-portfolio-analysis",
@@ -8,7 +8,7 @@
       "project": "FracassAlarm",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de FracassAlarm",
-      "reason": "Aucune mise à jour GitHub depuis 89 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 90 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
@@ -159,6 +159,19 @@
       "createdBy": "EMP-001"
     },
     {
+      "id": "AUTO-github_1362193422-portfolio-analysis",
+      "projectId": "github:1362193422",
+      "project": "CREATIX-MOVIES-",
+      "type": "portfolio-analysis",
+      "title": "Analyser l'état réel de CREATIX-MOVIES-",
+      "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "score": 30,
+      "priority": "medium",
+      "employeeId": "EMP-002",
+      "status": "queued",
+      "createdBy": "EMP-001"
+    },
+    {
       "id": "AUTO-github_1353168640-portfolio-analysis",
       "projectId": "github:1353168640",
       "project": "oeil-de-dieu",
@@ -177,19 +190,6 @@
       "project": "CR3-TIX-COMPANY.",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de CR3-TIX-COMPANY.",
-      "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
-      "score": 30,
-      "priority": "medium",
-      "employeeId": "EMP-002",
-      "status": "queued",
-      "createdBy": "EMP-001"
-    },
-    {
-      "id": "AUTO-github_1362193422-portfolio-analysis",
-      "projectId": "github:1362193422",
-      "project": "CREATIX-MOVIES-",
-      "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de CREATIX-MOVIES-",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",
