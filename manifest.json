@@ -1,0 +1,10 @@
+{
+  "name": "CR3@TIX COMPANY",
+  "short_name": "CR3@TIX Co.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#05060b",
+  "theme_color": "#070910",
+  "description": "Cockpit de direction de l'entreprise virtuelle CR3@TIX."
+}
