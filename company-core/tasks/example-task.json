@@ -1,0 +1,8 @@
+{
+  "id": "TSK-COMPANY-SELF-CHECK",
+  "employeeId": "EMP-004",
+  "type": "web-quality-check",
+  "project": "CR3@TIX COMPANY",
+  "requiredCapability": "run_tests",
+  "goal": "Vérifier que le cockpit possède un index et un manifeste valides."
+}
