@@ -1,0 +1,54 @@
+{
+  "version": "0.3.0",
+  "principle": "Chaque employé est un programme exécutable avec rôle, outils, permissions, entrées, sorties et règles d'escalade.",
+  "employees": [
+    {
+      "id": "EMP-001",
+      "name": "Chef de projet CR3@TIX",
+      "role": "orchestrator",
+      "manager": "BOSS",
+      "autonomy": "high",
+      "can_delegate": true,
+      "can_hire": false,
+      "requires_boss_for": ["hire", "final_acceptance", "production_merge", "delete_project"],
+      "capabilities": ["inventory_projects", "analyze_health", "decompose_work", "assign_tasks", "review_reports", "escalate_blockers", "propose_hires", "prepare_final_delivery"]
+    },
+    {
+      "id": "EMP-002",
+      "name": "Architecte logiciel / Lead Developer",
+      "role": "software_architect",
+      "manager": "EMP-001",
+      "autonomy": "high",
+      "can_delegate": true,
+      "capabilities": ["inspect_repository", "design_architecture", "plan_changes", "define_tests", "review_code", "prepare_implementation_tasks"]
+    },
+    {
+      "id": "EMP-003",
+      "name": "Développeur polyvalent",
+      "role": "developer",
+      "manager": "EMP-002",
+      "autonomy": "high",
+      "can_delegate": false,
+      "capabilities": ["read_code", "edit_code", "create_branch", "run_build", "fix_build", "run_tests", "prepare_pull_request"]
+    },
+    {
+      "id": "EMP-004",
+      "name": "QA Engineer",
+      "role": "qa",
+      "manager": "EMP-001",
+      "autonomy": "high",
+      "can_delegate": false,
+      "capabilities": ["run_tests", "inspect_failures", "regression_check", "accept_or_reject_candidate", "write_qa_report"]
+    },
+    {
+      "id": "EMP-005",
+      "name": "DevOps / Release Engineer",
+      "role": "devops",
+      "manager": "EMP-001",
+      "autonomy": "medium",
+      "can_delegate": false,
+      "requires_boss_for": ["production_release"],
+      "capabilities": ["build_artifacts", "deploy_preview", "prepare_release", "collect_logs", "rollback_plan"]
+    }
+  ]
+}
