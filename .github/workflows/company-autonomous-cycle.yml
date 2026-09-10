@@ -4,6 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '17 */6 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'company-core/**'
+      - '.github/workflows/company-autonomous-cycle.yml'
   pull_request:
     paths:
       - 'company-core/**'
