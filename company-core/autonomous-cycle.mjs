@@ -1,0 +1,15 @@
+import fs from 'node:fs/promises';
+import {buildProjectRegistry} from './project-registry.mjs';
+
+const OUT='company-data/company-state.json';
+const TASKS='company-data/work-queue.json';
+const DAY=86400000;
+
+function ageDays(date){if(!date)return null;const t=Date.parse(date);return Number.isFinite(t)?Math.floor((Date.now()-t)/DAY):null}
+function priority(score){return score>=80?'critical':score>=55?'high':score>=30?'medium':'low'}
+function add(tasks,project,type,title,reason,score,employee){tasks.push({id:`AUTO-${project.id.replace(/[^a-z0-9_-]/gi,'_')}-${type}`,projectId:project.id,project:project.name,type,title,reason,score,priority:priority(score),employeeId:employee,status:'queued',createdBy:'EMP-001'})}
+function analyzeProject(p){const findings=[];let score=10;const stale=ageDays(p.github?.pushedAt||p.pushedAt);if(!p.repository){findings.push('Aucun dépôt GitHub associé dans CR3@TIX Project.');score+=25}if(p.status==='archived')return{score:0,findings:['Dépôt archivé.'],stale};if(stale!==null&&stale>45){findings.push(`Aucune mise à jour GitHub depuis ${stale} jours.`);score+=20}if(p.source==='GITHUB'){findings.push('Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.');score+=20}if(p.progress>0&&p.progress<100){findings.push(`Projet déclaré en cours (${p.progress}%).`);score+=20}if(['idea','concept','conception','développement','development'].includes(String(p.status).toLowerCase())){findings.push(`État actif à poursuivre : ${p.status}.`);score+=20}if(p.progress===100||String(p.status).toLowerCase()==='online')score=Math.max(10,score-10);return{score:Math.min(100,score),findings,stale}}
+
+export async function runAutonomousCycle(){const registry=await buildProjectRegistry();const tasks=[];const analyses=[];for(const p of registry.projects){const a=analyzeProject(p);analyses.push({projectId:p.id,project:p.name,...a});if(a.score>=30){add(tasks,p,'portfolio-analysis',`Analyser l'état réel de ${p.name}`,a.findings.join(' '),a.score,'EMP-002');if(p.repository&&a.score>=55)add(tasks,p,'repository-inspection',`Auditer le dépôt de ${p.name}`,'Inspection technique requise avant toute modification.',a.score,'EMP-002')}}tasks.sort((a,b)=>b.score-a.score);const state={schemaVersion:1,generatedAt:new Date().toISOString(),company:'CR3@TIX COMPANY',mode:'autonomous-supervised',bossRole:'final_validation_only',projectCount:registry.count,openAutomaticTasks:tasks.length,employeesActive:['EMP-001','EMP-002','EMP-003','EMP-004','EMP-005'],cycle:{status:'success',nextAction:'EMP-001 dispatches queued work; production changes remain gated by Boss validation.'},analyses};await fs.mkdir('company-data',{recursive:true});await Promise.all([fs.writeFile(OUT,JSON.stringify(state,null,2)+'\n'),fs.writeFile(TASKS,JSON.stringify({schemaVersion:1,generatedAt:state.generatedAt,tasks},null,2)+'\n')]);console.log(`Cycle autonome: ${registry.count} éléments analysés, ${tasks.length} tâches générées.`);return{state,tasks}}
+
+if(import.meta.url===`file://${process.argv[1]}`)await runAutonomousCycle();
