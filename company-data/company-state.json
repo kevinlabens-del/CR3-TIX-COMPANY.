@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-10T03:38:37.488Z",
+  "company": "CR3@TIX COMPANY",
+  "mode": "autonomous-supervised",
+  "bossRole": "final_validation_only",
+  "projectCount": 36,
+  "openAutomaticTasks": 31,
+  "employeesActive": [
+    "EMP-001",
+    "EMP-002",
+    "EMP-003",
+    "EMP-004",
+    "EMP-005"
+  ],
+  "cycle": {
+    "status": "success",
+    "nextAction": "EMP-001 dispatches queued work; production changes remain gated by Boss validation."
+  },
+  "analyses": [
+    {
+      "projectId": "root",
+      "project": "CR3@TIX",
+      "score": 45,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
+        "Projet déclaré en cours (75%)."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "games",
+      "project": "Jeux",
+      "score": 35,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "apps",
+      "project": "Applications",
+      "score": 35,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "design",
+      "project": "Design",
+      "score": 35,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "snake",
+      "project": "Snake 2.0",
+      "score": 45,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
+        "Projet déclaré en cours (85%)."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "runner",
+      "project": "Cariste Runner",
+      "score": 25,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "breizh",
+      "project": "Breizh’ Balade",
+      "score": 45,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
+        "Projet déclaré en cours (65%)."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "devis-elec",
+      "project": "Devis Elec",
+      "score": 45,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
+        "Projet déclaré en cours (60%)."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "website",
+      "project": "GPT-CREATIX",
+      "score": 25,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "boutik",
+      "project": "CR3@TIX BOUTIK",
+      "score": 25,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "n1787282854455",
+      "project": "CR3@TIX PONG",
+      "score": 45,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
+        "Projet déclaré en cours (25%)."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "n1787617557106",
+      "project": "CR3@TIX ADVENTURE",
+      "score": 45,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
+        "Projet déclaré en cours (30%)."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "n1787672499639",
+      "project": "Cr3@tix Learn Linux",
+      "score": 45,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
+        "Projet déclaré en cours (60%)."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "soutien",
+      "project": "CR3@TIX SOUTIEN",
+      "score": 25,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "ai-live",
+      "project": "CR3@TIX AI LIVE",
+      "score": 25,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "n1788968112768",
+      "project": "CR3@ATIX MOVIES",
+      "score": 45,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
+        "Projet déclaré en cours (40%)."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "github:1363451766",
+      "project": "CR3-TIX-COMPANY.",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
+      "projectId": "github:1362193422",
+      "project": "CREATIX-MOVIES-",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
+      "projectId": "github:1339699609",
+      "project": "creatix-project",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
+      "projectId": "github:1360078160",
+      "project": "creatix-ai-live",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 1
+    },
+    {
+      "projectId": "github:1353168640",
+      "project": "oeil-de-dieu",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 8
+    },
+    {
+      "projectId": "github:1353168046",
+      "project": "-il-de-dieu",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 8
+    },
+    {
+      "projectId": "github:1351098070",
+      "project": "CREATIX-MAN",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 10
+    },
+    {
+      "projectId": "github:1341277318",
+      "project": "CR3-TIX-PONG",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 12
+    },
+    {
+      "projectId": "github:1290219488",
+      "project": "cariste-runner",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 12
+    },
+    {
+      "projectId": "github:1349070366",
+      "project": "assistant-jarvis",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 13
+    },
+    {
+      "projectId": "github:1348709688",
+      "project": "CR3-TIX-SOUTIEN-",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 13
+    },
+    {
+      "projectId": "github:1346365649",
+      "project": "CR3-TIX-ANALYTIX.",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 13
+    },
+    {
+      "projectId": "github:1328376093",
+      "project": "breizh-balade",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 13
+    },
+    {
+      "projectId": "github:1345629615",
+      "project": "CR3-TIX-LEARN-LINUX-",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 13
+    },
+    {
+      "projectId": "github:1345482719",
+      "project": "CR3-TIX-ADVENTURE-",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 13
+    },
+    {
+      "projectId": "github:1332103613",
+      "project": "snake-2.0",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 13
+    },
+    {
+      "projectId": "github:1337391544",
+      "project": "devis-lectrique",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 13
+    },
+    {
+      "projectId": "github:1342162232",
+      "project": "NYXEL-AI",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 19
+    },
+    {
+      "projectId": "github:1337729427",
+      "project": "only-eyes",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 22
+    },
+    {
+      "projectId": "github:1262481671",
+      "project": "FracassAlarm",
+      "score": 50,
+      "findings": [
+        "Aucune mise à jour GitHub depuis 89 jours.",
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 89
+    }
+  ]
+}
