@@ -1,0 +1,11 @@
+{
+  "version":"0.4.0",
+  "company":"CR3@TIX COMPANY",
+  "purpose":"Tête opérationnelle de l'entreprise virtuelle CR3@TIX : connaître les projets, décider du travail interne, déléguer aux employés-programmes, contrôler les résultats et ne remonter au Boss que les validations finales ou décisions à fort impact.",
+  "boss":{"id":"BOSS-001","mode":"final_validation","routine_work":false},
+  "project_registry":{"primary_source":"CR3@TIX Project / CR3@TIX MAP","secondary_source":"GitHub repositories","sync_target":"Supabase CR3ATIX-COMPANY"},
+  "autonomy":{"continuous_analysis":true,"automatic_task_creation":true,"automatic_delegation":true,"automatic_retry":true,"automatic_qa":true,"automatic_handoffs":true,"boss_only_final_gate":true},
+  "approval_required":["production_release","merge_to_protected_main","delete_project","delete_repository","hire_new_employee_program","change_company_security","spend_money","external_publication"],
+  "employee_rule":"Un employé n'est considéré embauché que si un programme exécutable correspondant existe, possède un contrat d'entrée/sortie, des permissions minimales, un runner et produit un résultat vérifiable.",
+  "delivery_pipeline":["EMP-001_ANALYZE","EMP-002_ARCHITECT","EMP-003_IMPLEMENT","EMP-004_QA","EMP-003_FIX_IF_NEEDED","EMP-005_PREPARE_RELEASE","BOSS_FINAL_VALIDATION"]
+}
