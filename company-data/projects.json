@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T04:37:29.212Z",
+  "generatedAt": "2026-09-11T11:18:02.833Z",
   "primarySource": "https://kevinlabens-del.github.io/creatix-project/projects.json",
   "secondarySource": "GitHub",
   "count": 36,
@@ -182,6 +182,19 @@
       "source": "CR3ATIX_PROJECT"
     },
     {
+      "id": "github:1363451766",
+      "name": "CR3-TIX-COMPANY.",
+      "description": "",
+      "type": "HTML",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
+      "defaultBranch": "main",
+      "pushedAt": "2026-09-11T04:37:34Z",
+      "source": "GITHUB"
+    },
+    {
       "id": "github:1362193422",
       "name": "CREATIX-MOVIES-",
       "description": "",
@@ -192,19 +205,6 @@
       "repository": "https://github.com/kevinlabens-del/CREATIX-MOVIES-",
       "defaultBranch": "main",
       "pushedAt": "2026-09-10T21:35:26Z",
-      "source": "GITHUB"
-    },
-    {
-      "id": "github:1363451766",
-      "name": "CR3-TIX-COMPANY.",
-      "description": "",
-      "type": "HTML",
-      "status": "repository",
-      "progress": 0,
-      "url": "",
-      "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
-      "defaultBranch": "main",
-      "pushedAt": "2026-09-10T20:50:35Z",
       "source": "GITHUB"
     },
     {
