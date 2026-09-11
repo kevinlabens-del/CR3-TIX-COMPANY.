@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T20:50:30.830Z",
+  "generatedAt": "2026-09-11T04:37:29.215Z",
   "tasks": [
     {
       "id": "AUTO-github_1262481671-portfolio-analysis",
@@ -172,11 +172,11 @@
       "createdBy": "EMP-001"
     },
     {
-      "id": "AUTO-github_1353168640-portfolio-analysis",
-      "projectId": "github:1353168640",
-      "project": "oeil-de-dieu",
+      "id": "AUTO-github_1363451766-portfolio-analysis",
+      "projectId": "github:1363451766",
+      "project": "CR3-TIX-COMPANY.",
       "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de oeil-de-dieu",
+      "title": "Analyser l'état réel de CR3-TIX-COMPANY.",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",
@@ -185,11 +185,11 @@
       "createdBy": "EMP-001"
     },
     {
-      "id": "AUTO-github_1363451766-portfolio-analysis",
-      "projectId": "github:1363451766",
-      "project": "CR3-TIX-COMPANY.",
+      "id": "AUTO-github_1353168640-portfolio-analysis",
+      "projectId": "github:1353168640",
+      "project": "oeil-de-dieu",
       "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de CR3-TIX-COMPANY.",
+      "title": "Analyser l'état réel de oeil-de-dieu",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",

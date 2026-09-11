@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T20:50:30.830Z",
+  "generatedAt": "2026-09-11T04:37:29.215Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -180,8 +180,8 @@
       "stale": 0
     },
     {
-      "projectId": "github:1353168640",
-      "project": "oeil-de-dieu",
+      "projectId": "github:1363451766",
+      "project": "CR3-TIX-COMPANY.",
       "score": 30,
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
@@ -189,8 +189,8 @@
       "stale": 0
     },
     {
-      "projectId": "github:1363451766",
-      "project": "CR3-TIX-COMPANY.",
+      "projectId": "github:1353168640",
+      "project": "oeil-de-dieu",
       "score": 30,
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
@@ -258,7 +258,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 13
+      "stale": 14
     },
     {
       "projectId": "github:1348709688",
@@ -330,7 +330,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 19
+      "stale": 20
     },
     {
       "projectId": "github:1337729427",
