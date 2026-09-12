@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T20:56:40.598Z",
+  "generatedAt": "2026-09-12T04:31:51.479Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
-  "projectCount": 36,
-  "openAutomaticTasks": 31,
+  "projectCount": 37,
+  "openAutomaticTasks": 32,
   "employeesActive": [
     "EMP-001",
     "EMP-002",
@@ -171,6 +171,15 @@
       "stale": null
     },
     {
+      "projectId": "github:1366852509",
+      "project": "CR3ATIX-VIGILANCE",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
       "projectId": "github:1363451766",
       "project": "CR3-TIX-COMPANY.",
       "score": 30,
@@ -186,7 +195,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 0
+      "stale": 1
     },
     {
       "projectId": "github:1353168640",
@@ -258,7 +267,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 14
+      "stale": 15
     },
     {
       "projectId": "github:1348709688",
@@ -330,7 +339,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 20
+      "stale": 21
     },
     {
       "projectId": "github:1337729427",
