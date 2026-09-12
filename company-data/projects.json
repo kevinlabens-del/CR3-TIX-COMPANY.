@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T15:30:08.830Z",
+  "generatedAt": "2026-09-12T20:31:54.594Z",
   "primarySource": "https://kevinlabens-del.github.io/creatix-project/projects.json",
   "secondarySource": "GitHub",
   "count": 37,
@@ -182,19 +182,6 @@
       "source": "CR3ATIX_PROJECT"
     },
     {
-      "id": "github:1363451766",
-      "name": "CR3-TIX-COMPANY.",
-      "description": "",
-      "type": "HTML",
-      "status": "repository",
-      "progress": 0,
-      "url": "",
-      "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
-      "defaultBranch": "main",
-      "pushedAt": "2026-09-12T10:43:32Z",
-      "source": "GITHUB"
-    },
-    {
       "id": "github:1366852509",
       "name": "CR3ATIX-VIGILANCE",
       "description": "",
@@ -204,7 +191,20 @@
       "url": "",
       "repository": "https://github.com/kevinlabens-del/CR3ATIX-VIGILANCE",
       "defaultBranch": "main",
-      "pushedAt": "2026-09-12T03:56:59Z",
+      "pushedAt": "2026-09-12T19:37:50Z",
+      "source": "GITHUB"
+    },
+    {
+      "id": "github:1363451766",
+      "name": "CR3-TIX-COMPANY.",
+      "description": "",
+      "type": "HTML",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
+      "defaultBranch": "main",
+      "pushedAt": "2026-09-12T15:30:12Z",
       "source": "GITHUB"
     },
     {

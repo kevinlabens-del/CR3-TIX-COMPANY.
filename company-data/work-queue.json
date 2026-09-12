@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T15:30:08.833Z",
+  "generatedAt": "2026-09-12T20:31:54.601Z",
   "tasks": [
     {
       "id": "AUTO-github_1262481671-portfolio-analysis",
@@ -8,7 +8,7 @@
       "project": "FracassAlarm",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de FracassAlarm",
-      "reason": "Aucune mise à jour GitHub depuis 91 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 92 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
@@ -159,11 +159,11 @@
       "createdBy": "EMP-001"
     },
     {
-      "id": "AUTO-github_1363451766-portfolio-analysis",
-      "projectId": "github:1363451766",
-      "project": "CR3-TIX-COMPANY.",
+      "id": "AUTO-github_1366852509-portfolio-analysis",
+      "projectId": "github:1366852509",
+      "project": "CR3ATIX-VIGILANCE",
       "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de CR3-TIX-COMPANY.",
+      "title": "Analyser l'état réel de CR3ATIX-VIGILANCE",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",
@@ -172,11 +172,11 @@
       "createdBy": "EMP-001"
     },
     {
-      "id": "AUTO-github_1366852509-portfolio-analysis",
-      "projectId": "github:1366852509",
-      "project": "CR3ATIX-VIGILANCE",
+      "id": "AUTO-github_1363451766-portfolio-analysis",
+      "projectId": "github:1363451766",
+      "project": "CR3-TIX-COMPANY.",
       "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de CR3ATIX-VIGILANCE",
+      "title": "Analyser l'état réel de CR3-TIX-COMPANY.",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",
