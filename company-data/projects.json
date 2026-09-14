@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T12:42:34.555Z",
+  "generatedAt": "2026-09-14T21:47:54.088Z",
   "primarySource": "https://kevinlabens-del.github.io/creatix-project/projects.json",
   "secondarySource": "GitHub",
   "count": 31,
@@ -116,6 +116,45 @@
       "source": "CR3ATIX_PROJECT"
     },
     {
+      "id": "github:1360078160",
+      "name": "creatix-ai-live",
+      "description": "",
+      "type": "JavaScript",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/creatix-ai-live",
+      "defaultBranch": "main",
+      "pushedAt": "2026-09-14T14:38:45Z",
+      "source": "GITHUB"
+    },
+    {
+      "id": "github:1346365649",
+      "name": "CR3-TIX-ANALYTIX.",
+      "description": "",
+      "type": "TypeScript",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/CR3-TIX-ANALYTIX.",
+      "defaultBranch": "main",
+      "pushedAt": "2026-09-14T14:37:58Z",
+      "source": "GITHUB"
+    },
+    {
+      "id": "github:1339699609",
+      "name": "creatix-project",
+      "description": "tableau de bord creatix",
+      "type": "JavaScript",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/creatix-project",
+      "defaultBranch": "main",
+      "pushedAt": "2026-09-14T14:33:25Z",
+      "source": "GITHUB"
+    },
+    {
       "id": "github:1363451766",
       "name": "CR3-TIX-COMPANY.",
       "description": "",
@@ -125,7 +164,7 @@
       "url": "",
       "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
       "defaultBranch": "main",
-      "pushedAt": "2026-09-14T04:53:00Z",
+      "pushedAt": "2026-09-14T12:42:39Z",
       "source": "GITHUB"
     },
     {
@@ -139,19 +178,6 @@
       "repository": "https://github.com/kevinlabens-del/CR3ATIX-VIGILANCE",
       "defaultBranch": "main",
       "pushedAt": "2026-09-14T03:06:44Z",
-      "source": "GITHUB"
-    },
-    {
-      "id": "github:1339699609",
-      "name": "creatix-project",
-      "description": "tableau de bord creatix",
-      "type": "JavaScript",
-      "status": "repository",
-      "progress": 0,
-      "url": "",
-      "repository": "https://github.com/kevinlabens-del/creatix-project",
-      "defaultBranch": "main",
-      "pushedAt": "2026-09-13T22:14:45Z",
       "source": "GITHUB"
     },
     {
@@ -191,19 +217,6 @@
       "repository": "https://github.com/kevinlabens-del/oeil-de-dieu",
       "defaultBranch": "main",
       "pushedAt": "2026-09-10T17:29:30Z",
-      "source": "GITHUB"
-    },
-    {
-      "id": "github:1360078160",
-      "name": "creatix-ai-live",
-      "description": "",
-      "type": "JavaScript",
-      "status": "repository",
-      "progress": 0,
-      "url": "",
-      "repository": "https://github.com/kevinlabens-del/creatix-ai-live",
-      "defaultBranch": "main",
-      "pushedAt": "2026-09-08T14:02:18Z",
       "source": "GITHUB"
     },
     {
@@ -269,19 +282,6 @@
       "repository": "https://github.com/kevinlabens-del/assistant-jarvis",
       "defaultBranch": "main",
       "pushedAt": "2026-08-28T02:04:11Z",
-      "source": "GITHUB"
-    },
-    {
-      "id": "github:1346365649",
-      "name": "CR3-TIX-ANALYTIX.",
-      "description": "",
-      "type": "TypeScript",
-      "status": "repository",
-      "progress": 0,
-      "url": "",
-      "repository": "https://github.com/kevinlabens-del/CR3-TIX-ANALYTIX.",
-      "defaultBranch": "main",
-      "pushedAt": "2026-08-27T06:23:18Z",
       "source": "GITHUB"
     },
     {
