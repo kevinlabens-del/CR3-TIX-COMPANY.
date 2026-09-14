@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T04:52:56.850Z",
+  "generatedAt": "2026-09-14T12:42:34.558Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
-  "projectCount": 25,
-  "openAutomaticTasks": 22,
+  "projectCount": 31,
+  "openAutomaticTasks": 28,
   "employeesActive": [
     "EMP-001",
     "EMP-002",
@@ -38,6 +38,16 @@
       "stale": null
     },
     {
+      "projectId": "devis-elec",
+      "project": "Devis Elec",
+      "score": 45,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
+        "Projet déclaré en cours (60%)."
+      ],
+      "stale": null
+    },
+    {
       "projectId": "website",
       "project": "GPT-CREATIX",
       "score": 25,
@@ -54,6 +64,65 @@
         "Aucun dépôt GitHub associé dans CR3@TIX Project."
       ],
       "stale": null
+    },
+    {
+      "projectId": "n1787282854455",
+      "project": "CR3@TIX PONG",
+      "score": 45,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
+        "Projet déclaré en cours (25%)."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "n1787617557106",
+      "project": "CR3@TIX ADVENTURE",
+      "score": 45,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
+        "Projet déclaré en cours (30%)."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "n1787672499639",
+      "project": "Cr3@tix Learn Linux",
+      "score": 45,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
+        "Projet déclaré en cours (60%)."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "n1788968112768",
+      "project": "CR3@ATIX MOVIES",
+      "score": 45,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
+        "Projet déclaré en cours (40%)."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "n1789319617078",
+      "project": "CREATIX VIGILANCE",
+      "score": 45,
+      "findings": [
+        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
+        "Projet déclaré en cours (70%)."
+      ],
+      "stale": null
+    },
+    {
+      "projectId": "github:1363451766",
+      "project": "CR3-TIX-COMPANY.",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
     },
     {
       "projectId": "github:1366852509",
@@ -76,15 +145,6 @@
     {
       "projectId": "github:1348709688",
       "project": "CR3-TIX-SOUTIEN-",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 0
-    },
-    {
-      "projectId": "github:1363451766",
-      "project": "CR3-TIX-COMPANY.",
       "score": 30,
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
@@ -125,7 +185,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 12
+      "stale": 13
     },
     {
       "projectId": "github:1351098070",
@@ -143,7 +203,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 16
+      "stale": 17
     },
     {
       "projectId": "github:1290219488",
@@ -152,7 +212,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 16
+      "stale": 17
     },
     {
       "projectId": "github:1349070366",
@@ -170,7 +230,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 17
+      "stale": 18
     },
     {
       "projectId": "github:1328376093",
@@ -179,7 +239,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 17
+      "stale": 18
     },
     {
       "projectId": "github:1345629615",
@@ -188,7 +248,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 17
+      "stale": 18
     },
     {
       "projectId": "github:1345482719",
@@ -197,7 +257,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 17
+      "stale": 18
     },
     {
       "projectId": "github:1332103613",
@@ -206,7 +266,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 17
+      "stale": 18
     },
     {
       "projectId": "github:1337391544",
@@ -215,7 +275,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 17
+      "stale": 18
     },
     {
       "projectId": "github:1342162232",
@@ -233,7 +293,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 26
+      "stale": 27
     },
     {
       "projectId": "github:1262481671",

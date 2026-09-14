@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T04:52:56.846Z",
+  "generatedAt": "2026-09-14T12:42:34.555Z",
   "primarySource": "https://kevinlabens-del.github.io/creatix-project/projects.json",
   "secondarySource": "GitHub",
-  "count": 25,
+  "count": 31,
   "projects": [
     {
       "id": "snake",
@@ -28,6 +28,17 @@
       "source": "CR3ATIX_PROJECT"
     },
     {
+      "id": "devis-elec",
+      "name": "Devis Elec",
+      "description": "Création et gestion de devis électriques",
+      "type": "APPLICATION",
+      "status": "online",
+      "progress": 60,
+      "url": "https://kevinlabens-del.github.io/devis-lectrique/",
+      "repository": "",
+      "source": "CR3ATIX_PROJECT"
+    },
+    {
       "id": "website",
       "name": "GPT-CREATIX",
       "description": "Site officiel CR3@TIX • galerie et créations",
@@ -45,9 +56,77 @@
       "type": "DESIGN",
       "status": "online",
       "progress": 100,
-      "url": "https://www.redbubble.com/fr/shop/ap/182865911?ref=studio-promote",
+      "url": "https://www.redbubble.com/people/creatix-boutik/explore?asc=u",
       "repository": "",
       "source": "CR3ATIX_PROJECT"
+    },
+    {
+      "id": "n1787282854455",
+      "name": "CR3@TIX PONG",
+      "description": "CR3@TIX PONG est un jeu d’arcade nerveux où la Glace affronte le Feu dans des duels rapides, des arènes évolutives et des combats",
+      "type": "Jeux",
+      "status": "online",
+      "progress": 25,
+      "url": "https://kevinlabens-del.github.io/CR3-TIX-PONG/",
+      "repository": "",
+      "source": "CR3ATIX_PROJECT"
+    },
+    {
+      "id": "n1787617557106",
+      "name": "CR3@TIX ADVENTURE",
+      "description": "Jeux d'aventure arcade",
+      "type": "Jeu",
+      "status": "online",
+      "progress": 30,
+      "url": "https://kevinlabens-del.github.io/CR3-TIX-ADVENTURE-/",
+      "repository": "",
+      "source": "CR3ATIX_PROJECT"
+    },
+    {
+      "id": "n1787672499639",
+      "name": "Cr3@tix Learn Linux",
+      "description": "Apprendre les commandes linux à partir du débutant",
+      "type": "APPLICATION",
+      "status": "online",
+      "progress": 60,
+      "url": "https://kevinlabens-del.github.io/CR3-TIX-LEARN-LINUX-/",
+      "repository": "",
+      "source": "CR3ATIX_PROJECT"
+    },
+    {
+      "id": "n1788968112768",
+      "name": "CR3@ATIX MOVIES",
+      "description": "Application de site en streaming",
+      "type": "APPLICATION",
+      "status": "online",
+      "progress": 40,
+      "url": "https://kevinlabens-del.github.io/CREATIX-MOVIES-/",
+      "repository": "",
+      "source": "CR3ATIX_PROJECT"
+    },
+    {
+      "id": "n1789319617078",
+      "name": "CREATIX VIGILANCE",
+      "description": "Application de sécurité routière",
+      "type": "APPLICATION",
+      "status": "online",
+      "progress": 70,
+      "url": "https://kevinlabens-del.github.io/CR3ATIX-VIGILANCE/",
+      "repository": "",
+      "source": "CR3ATIX_PROJECT"
+    },
+    {
+      "id": "github:1363451766",
+      "name": "CR3-TIX-COMPANY.",
+      "description": "",
+      "type": "HTML",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
+      "defaultBranch": "main",
+      "pushedAt": "2026-09-14T04:53:00Z",
+      "source": "GITHUB"
     },
     {
       "id": "github:1366852509",
@@ -86,19 +165,6 @@
       "repository": "https://github.com/kevinlabens-del/CR3-TIX-SOUTIEN-",
       "defaultBranch": "main",
       "pushedAt": "2026-09-13T22:06:40Z",
-      "source": "GITHUB"
-    },
-    {
-      "id": "github:1363451766",
-      "name": "CR3-TIX-COMPANY.",
-      "description": "",
-      "type": "HTML",
-      "status": "repository",
-      "progress": 0,
-      "url": "",
-      "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
-      "defaultBranch": "main",
-      "pushedAt": "2026-09-13T20:47:47Z",
       "source": "GITHUB"
     },
     {
