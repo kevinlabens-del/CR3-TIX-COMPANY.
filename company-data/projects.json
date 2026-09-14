@@ -1,54 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T20:47:44.313Z",
+  "generatedAt": "2026-09-14T04:52:56.846Z",
   "primarySource": "https://kevinlabens-del.github.io/creatix-project/projects.json",
   "secondarySource": "GitHub",
-  "count": 37,
+  "count": 25,
   "projects": [
-    {
-      "id": "root",
-      "name": "CR3@TIX",
-      "description": "Concepteur de projet digital",
-      "type": "ÉCOSYSTÈME",
-      "status": "online",
-      "progress": 75,
-      "url": "https://kevinlabens-del.github.io/creatix-project/",
-      "repository": "",
-      "source": "CR3ATIX_PROJECT"
-    },
-    {
-      "id": "games",
-      "name": "Jeux",
-      "description": "Expériences et jeux interactifs",
-      "type": "BRANCHE",
-      "status": "unknown",
-      "progress": 0,
-      "url": "",
-      "repository": "",
-      "source": "CR3ATIX_PROJECT"
-    },
-    {
-      "id": "apps",
-      "name": "Applications",
-      "description": "Outils web et applications",
-      "type": "BRANCHE",
-      "status": "unknown",
-      "progress": 0,
-      "url": "",
-      "repository": "",
-      "source": "CR3ATIX_PROJECT"
-    },
-    {
-      "id": "design",
-      "name": "Design",
-      "description": "Identité visuelle et créations",
-      "type": "BRANCHE",
-      "status": "unknown",
-      "progress": 0,
-      "url": "",
-      "repository": "",
-      "source": "CR3ATIX_PROJECT"
-    },
     {
       "id": "snake",
       "name": "Snake 2.0",
@@ -72,28 +28,6 @@
       "source": "CR3ATIX_PROJECT"
     },
     {
-      "id": "breizh",
-      "name": "Breizh’ Balade",
-      "description": "Découvrir la Bretagne autrement",
-      "type": "APPLICATION",
-      "status": "online",
-      "progress": 65,
-      "url": "https://kevinlabens-del.github.io/breizh-balade/",
-      "repository": "",
-      "source": "CR3ATIX_PROJECT"
-    },
-    {
-      "id": "devis-elec",
-      "name": "Devis Elec",
-      "description": "Création et gestion de devis électriques",
-      "type": "APPLICATION",
-      "status": "online",
-      "progress": 60,
-      "url": "https://kevinlabens-del.github.io/devis-lectrique/",
-      "repository": "",
-      "source": "CR3ATIX_PROJECT"
-    },
-    {
       "id": "website",
       "name": "GPT-CREATIX",
       "description": "Site officiel CR3@TIX • galerie et créations",
@@ -111,88 +45,9 @@
       "type": "DESIGN",
       "status": "online",
       "progress": 100,
-      "url": "https://www.redbubble.com/people/creatix-boutik/explore?asc=u",
+      "url": "https://www.redbubble.com/fr/shop/ap/182865911?ref=studio-promote",
       "repository": "",
       "source": "CR3ATIX_PROJECT"
-    },
-    {
-      "id": "n1787282854455",
-      "name": "CR3@TIX PONG",
-      "description": "CR3@TIX PONG est un jeu d’arcade nerveux où la Glace affronte le Feu dans des duels rapides, des arènes évolutives et des combats",
-      "type": "Jeux",
-      "status": "online",
-      "progress": 25,
-      "url": "https://kevinlabens-del.github.io/CR3-TIX-PONG/",
-      "repository": "",
-      "source": "CR3ATIX_PROJECT"
-    },
-    {
-      "id": "n1787617557106",
-      "name": "CR3@TIX ADVENTURE",
-      "description": "Jeux d'aventure arcade",
-      "type": "Jeu",
-      "status": "online",
-      "progress": 30,
-      "url": "https://kevinlabens-del.github.io/CR3-TIX-ADVENTURE-/",
-      "repository": "",
-      "source": "CR3ATIX_PROJECT"
-    },
-    {
-      "id": "n1787672499639",
-      "name": "Cr3@tix Learn Linux",
-      "description": "Apprendre les commandes linux à partir du débutant",
-      "type": "APPLICATION",
-      "status": "online",
-      "progress": 60,
-      "url": "https://kevinlabens-del.github.io/CR3-TIX-LEARN-LINUX-/",
-      "repository": "",
-      "source": "CR3ATIX_PROJECT"
-    },
-    {
-      "id": "soutien",
-      "name": "CR3@TIX SOUTIEN",
-      "description": "Soutenir volontairement les projets CR3@TIX, sans contrepartie",
-      "type": "APPLICATION",
-      "status": "online",
-      "progress": 100,
-      "url": "https://kevinlabens-del.github.io/creatix-project/soutien/",
-      "repository": "",
-      "source": "CR3ATIX_PROJECT"
-    },
-    {
-      "id": "ai-live",
-      "name": "CR3@TIX AI LIVE",
-      "description": "Conférences sur l’intelligence artificielle en direct, à venir et en replay dans un lecteur intégré",
-      "type": "APPLICATION",
-      "status": "online",
-      "progress": 100,
-      "url": "https://creatix-ai-live.netlify.app/",
-      "repository": "",
-      "source": "CR3ATIX_PROJECT"
-    },
-    {
-      "id": "n1788968112768",
-      "name": "CR3@ATIX MOVIES",
-      "description": "Application de site en streaming",
-      "type": "APPLICATION",
-      "status": "online",
-      "progress": 40,
-      "url": "https://kevinlabens-del.github.io/CREATIX-MOVIES-/",
-      "repository": "",
-      "source": "CR3ATIX_PROJECT"
-    },
-    {
-      "id": "github:1363451766",
-      "name": "CR3-TIX-COMPANY.",
-      "description": "",
-      "type": "HTML",
-      "status": "repository",
-      "progress": 0,
-      "url": "",
-      "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
-      "defaultBranch": "main",
-      "pushedAt": "2026-09-13T16:15:07Z",
-      "source": "GITHUB"
     },
     {
       "id": "github:1366852509",
@@ -204,7 +59,46 @@
       "url": "",
       "repository": "https://github.com/kevinlabens-del/CR3ATIX-VIGILANCE",
       "defaultBranch": "main",
-      "pushedAt": "2026-09-13T18:48:53Z",
+      "pushedAt": "2026-09-14T03:06:44Z",
+      "source": "GITHUB"
+    },
+    {
+      "id": "github:1339699609",
+      "name": "creatix-project",
+      "description": "tableau de bord creatix",
+      "type": "JavaScript",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/creatix-project",
+      "defaultBranch": "main",
+      "pushedAt": "2026-09-13T22:14:45Z",
+      "source": "GITHUB"
+    },
+    {
+      "id": "github:1348709688",
+      "name": "CR3-TIX-SOUTIEN-",
+      "description": "collecte de dons pour les projets",
+      "type": "HTML",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/CR3-TIX-SOUTIEN-",
+      "defaultBranch": "main",
+      "pushedAt": "2026-09-13T22:06:40Z",
+      "source": "GITHUB"
+    },
+    {
+      "id": "github:1363451766",
+      "name": "CR3-TIX-COMPANY.",
+      "description": "",
+      "type": "HTML",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
+      "defaultBranch": "main",
+      "pushedAt": "2026-09-13T20:47:47Z",
       "source": "GITHUB"
     },
     {
@@ -231,19 +125,6 @@
       "repository": "https://github.com/kevinlabens-del/oeil-de-dieu",
       "defaultBranch": "main",
       "pushedAt": "2026-09-10T17:29:30Z",
-      "source": "GITHUB"
-    },
-    {
-      "id": "github:1339699609",
-      "name": "creatix-project",
-      "description": "tableau de bord creatix",
-      "type": "JavaScript",
-      "status": "repository",
-      "progress": 0,
-      "url": "",
-      "repository": "https://github.com/kevinlabens-del/creatix-project",
-      "defaultBranch": "main",
-      "pushedAt": "2026-09-09T15:38:31Z",
       "source": "GITHUB"
     },
     {
@@ -322,19 +203,6 @@
       "repository": "https://github.com/kevinlabens-del/assistant-jarvis",
       "defaultBranch": "main",
       "pushedAt": "2026-08-28T02:04:11Z",
-      "source": "GITHUB"
-    },
-    {
-      "id": "github:1348709688",
-      "name": "CR3-TIX-SOUTIEN-",
-      "description": "collecte de dons pour les projets",
-      "type": "repository",
-      "status": "repository",
-      "progress": 0,
-      "url": "",
-      "repository": "https://github.com/kevinlabens-del/CR3-TIX-SOUTIEN-",
-      "defaultBranch": "main",
-      "pushedAt": "2026-08-27T16:32:25Z",
       "source": "GITHUB"
     },
     {

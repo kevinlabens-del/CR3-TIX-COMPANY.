@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T20:47:44.315Z",
+  "generatedAt": "2026-09-14T04:52:56.850Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
-  "projectCount": 37,
-  "openAutomaticTasks": 32,
+  "projectCount": 25,
+  "openAutomaticTasks": 22,
   "employeesActive": [
     "EMP-001",
     "EMP-002",
@@ -18,43 +18,6 @@
     "nextAction": "EMP-001 dispatches queued work; production changes remain gated by Boss validation."
   },
   "analyses": [
-    {
-      "projectId": "root",
-      "project": "CR3@TIX",
-      "score": 45,
-      "findings": [
-        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
-        "Projet déclaré en cours (75%)."
-      ],
-      "stale": null
-    },
-    {
-      "projectId": "games",
-      "project": "Jeux",
-      "score": 35,
-      "findings": [
-        "Aucun dépôt GitHub associé dans CR3@TIX Project."
-      ],
-      "stale": null
-    },
-    {
-      "projectId": "apps",
-      "project": "Applications",
-      "score": 35,
-      "findings": [
-        "Aucun dépôt GitHub associé dans CR3@TIX Project."
-      ],
-      "stale": null
-    },
-    {
-      "projectId": "design",
-      "project": "Design",
-      "score": 35,
-      "findings": [
-        "Aucun dépôt GitHub associé dans CR3@TIX Project."
-      ],
-      "stale": null
-    },
     {
       "projectId": "snake",
       "project": "Snake 2.0",
@@ -71,26 +34,6 @@
       "score": 25,
       "findings": [
         "Aucun dépôt GitHub associé dans CR3@TIX Project."
-      ],
-      "stale": null
-    },
-    {
-      "projectId": "breizh",
-      "project": "Breizh’ Balade",
-      "score": 45,
-      "findings": [
-        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
-        "Projet déclaré en cours (65%)."
-      ],
-      "stale": null
-    },
-    {
-      "projectId": "devis-elec",
-      "project": "Devis Elec",
-      "score": 45,
-      "findings": [
-        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
-        "Projet déclaré en cours (60%)."
       ],
       "stale": null
     },
@@ -113,66 +56,8 @@
       "stale": null
     },
     {
-      "projectId": "n1787282854455",
-      "project": "CR3@TIX PONG",
-      "score": 45,
-      "findings": [
-        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
-        "Projet déclaré en cours (25%)."
-      ],
-      "stale": null
-    },
-    {
-      "projectId": "n1787617557106",
-      "project": "CR3@TIX ADVENTURE",
-      "score": 45,
-      "findings": [
-        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
-        "Projet déclaré en cours (30%)."
-      ],
-      "stale": null
-    },
-    {
-      "projectId": "n1787672499639",
-      "project": "Cr3@tix Learn Linux",
-      "score": 45,
-      "findings": [
-        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
-        "Projet déclaré en cours (60%)."
-      ],
-      "stale": null
-    },
-    {
-      "projectId": "soutien",
-      "project": "CR3@TIX SOUTIEN",
-      "score": 25,
-      "findings": [
-        "Aucun dépôt GitHub associé dans CR3@TIX Project."
-      ],
-      "stale": null
-    },
-    {
-      "projectId": "ai-live",
-      "project": "CR3@TIX AI LIVE",
-      "score": 25,
-      "findings": [
-        "Aucun dépôt GitHub associé dans CR3@TIX Project."
-      ],
-      "stale": null
-    },
-    {
-      "projectId": "n1788968112768",
-      "project": "CR3@ATIX MOVIES",
-      "score": 45,
-      "findings": [
-        "Aucun dépôt GitHub associé dans CR3@TIX Project.",
-        "Projet déclaré en cours (40%)."
-      ],
-      "stale": null
-    },
-    {
-      "projectId": "github:1363451766",
-      "project": "CR3-TIX-COMPANY.",
+      "projectId": "github:1366852509",
+      "project": "CR3ATIX-VIGILANCE",
       "score": 30,
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
@@ -180,8 +65,26 @@
       "stale": 0
     },
     {
-      "projectId": "github:1366852509",
-      "project": "CR3ATIX-VIGILANCE",
+      "projectId": "github:1339699609",
+      "project": "creatix-project",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
+      "projectId": "github:1348709688",
+      "project": "CR3-TIX-SOUTIEN-",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
+      "projectId": "github:1363451766",
+      "project": "CR3-TIX-COMPANY.",
       "score": 30,
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
@@ -195,7 +98,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 2
+      "stale": 3
     },
     {
       "projectId": "github:1353168640",
@@ -205,15 +108,6 @@
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
       "stale": 3
-    },
-    {
-      "projectId": "github:1339699609",
-      "project": "creatix-project",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 4
     },
     {
       "projectId": "github:1360078160",
@@ -263,15 +157,6 @@
     {
       "projectId": "github:1349070366",
       "project": "assistant-jarvis",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 16
-    },
-    {
-      "projectId": "github:1348709688",
-      "project": "CR3-TIX-SOUTIEN-",
       "score": 30,
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
@@ -339,7 +224,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 22
+      "stale": 23
     },
     {
       "projectId": "github:1337729427",
