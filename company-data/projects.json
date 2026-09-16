@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T04:47:11.359Z",
+  "generatedAt": "2026-09-16T11:29:12.669Z",
   "primarySource": "https://kevinlabens-del.github.io/creatix-project/projects.json",
   "secondarySource": "GitHub",
   "count": 31,
@@ -116,6 +116,19 @@
       "source": "CR3ATIX_PROJECT"
     },
     {
+      "id": "github:1363451766",
+      "name": "CR3-TIX-COMPANY.",
+      "description": "",
+      "type": "HTML",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
+      "defaultBranch": "main",
+      "pushedAt": "2026-09-16T04:47:14Z",
+      "source": "GITHUB"
+    },
+    {
       "id": "github:1341277318",
       "name": "CR3-TIX-PONG",
       "description": "CR3@TIX PONG La guerre entre la Glace et le Feu commence maintenant ! Redécouvre le célèbre jeu de Pong dans une expérience arcade moderne, spectaculaire et évolutive.",
@@ -126,19 +139,6 @@
       "repository": "https://github.com/kevinlabens-del/CR3-TIX-PONG",
       "defaultBranch": "main",
       "pushedAt": "2026-09-15T22:12:51Z",
-      "source": "GITHUB"
-    },
-    {
-      "id": "github:1363451766",
-      "name": "CR3-TIX-COMPANY.",
-      "description": "",
-      "type": "HTML",
-      "status": "repository",
-      "progress": 0,
-      "url": "",
-      "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
-      "defaultBranch": "main",
-      "pushedAt": "2026-09-15T21:18:48Z",
       "source": "GITHUB"
     },
     {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T04:47:11.362Z",
+  "generatedAt": "2026-09-16T11:29:12.673Z",
   "tasks": [
     {
       "id": "AUTO-github_1262481671-portfolio-analysis",
@@ -107,11 +107,11 @@
       "createdBy": "EMP-001"
     },
     {
-      "id": "AUTO-github_1341277318-portfolio-analysis",
-      "projectId": "github:1341277318",
-      "project": "CR3-TIX-PONG",
+      "id": "AUTO-github_1363451766-portfolio-analysis",
+      "projectId": "github:1363451766",
+      "project": "CR3-TIX-COMPANY.",
       "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de CR3-TIX-PONG",
+      "title": "Analyser l'état réel de CR3-TIX-COMPANY.",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",
@@ -120,11 +120,11 @@
       "createdBy": "EMP-001"
     },
     {
-      "id": "AUTO-github_1363451766-portfolio-analysis",
-      "projectId": "github:1363451766",
-      "project": "CR3-TIX-COMPANY.",
+      "id": "AUTO-github_1341277318-portfolio-analysis",
+      "projectId": "github:1341277318",
+      "project": "CR3-TIX-PONG",
       "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de CR3-TIX-COMPANY.",
+      "title": "Analyser l'état réel de CR3-TIX-PONG",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",
