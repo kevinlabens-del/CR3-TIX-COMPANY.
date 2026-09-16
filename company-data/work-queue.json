@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T21:18:44.883Z",
+  "generatedAt": "2026-09-16T04:47:11.362Z",
   "tasks": [
     {
       "id": "AUTO-github_1262481671-portfolio-analysis",
@@ -101,6 +101,19 @@
       "title": "Analyser l'état réel de CREATIX VIGILANCE",
       "reason": "Aucun dépôt GitHub associé dans CR3@TIX Project. Projet déclaré en cours (70%).",
       "score": 45,
+      "priority": "medium",
+      "employeeId": "EMP-002",
+      "status": "queued",
+      "createdBy": "EMP-001"
+    },
+    {
+      "id": "AUTO-github_1341277318-portfolio-analysis",
+      "projectId": "github:1341277318",
+      "project": "CR3-TIX-PONG",
+      "type": "portfolio-analysis",
+      "title": "Analyser l'état réel de CR3-TIX-PONG",
+      "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "score": 30,
       "priority": "medium",
       "employeeId": "EMP-002",
       "status": "queued",
@@ -229,19 +242,6 @@
       "project": "CREATIX-MAN",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de CREATIX-MAN",
-      "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
-      "score": 30,
-      "priority": "medium",
-      "employeeId": "EMP-002",
-      "status": "queued",
-      "createdBy": "EMP-001"
-    },
-    {
-      "id": "AUTO-github_1341277318-portfolio-analysis",
-      "projectId": "github:1341277318",
-      "project": "CR3-TIX-PONG",
-      "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de CR3-TIX-PONG",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T21:18:44.883Z",
+  "generatedAt": "2026-09-16T04:47:11.362Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -116,6 +116,15 @@
       "stale": null
     },
     {
+      "projectId": "github:1341277318",
+      "project": "CR3-TIX-PONG",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
       "projectId": "github:1363451766",
       "project": "CR3-TIX-COMPANY.",
       "score": 30,
@@ -158,7 +167,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 1
+      "stale": 2
     },
     {
       "projectId": "github:1348709688",
@@ -167,7 +176,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 1
+      "stale": 2
     },
     {
       "projectId": "github:1362193422",
@@ -176,7 +185,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 4
+      "stale": 5
     },
     {
       "projectId": "github:1353168640",
@@ -206,15 +215,6 @@
       "stale": 16
     },
     {
-      "projectId": "github:1341277318",
-      "project": "CR3-TIX-PONG",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 18
-    },
-    {
       "projectId": "github:1290219488",
       "project": "cariste-runner",
       "score": 30,
@@ -230,7 +230,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 18
+      "stale": 19
     },
     {
       "projectId": "github:1328376093",
@@ -284,7 +284,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 24
+      "stale": 25
     },
     {
       "projectId": "github:1337729427",
