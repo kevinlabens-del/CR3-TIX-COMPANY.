@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:02.945Z",
+  "generatedAt": "2026-09-19T15:51:30.727Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
-  "projectCount": 31,
-  "openAutomaticTasks": 28,
+  "projectCount": 32,
+  "openAutomaticTasks": 29,
   "employeesActive": [
     "EMP-001",
     "EMP-002",
@@ -116,6 +116,15 @@
       "stale": null
     },
     {
+      "projectId": "github:1377177804",
+      "project": "SYNAPTIK-",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
       "projectId": "github:1363451766",
       "project": "CR3-TIX-COMPANY.",
       "score": 30,
@@ -140,7 +149,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 4
+      "stale": 5
     },
     {
       "projectId": "github:1346365649",
@@ -149,7 +158,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 4
+      "stale": 5
     },
     {
       "projectId": "github:1339699609",
@@ -158,7 +167,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 4
+      "stale": 5
     },
     {
       "projectId": "github:1366852509",
@@ -212,7 +221,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 19
+      "stale": 20
     },
     {
       "projectId": "github:1290219488",

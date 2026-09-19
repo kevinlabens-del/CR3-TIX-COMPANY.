@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:56:02.943Z",
+  "generatedAt": "2026-09-19T15:51:30.724Z",
   "primarySource": "https://kevinlabens-del.github.io/creatix-project/projects.json",
   "secondarySource": "GitHub",
-  "count": 31,
+  "count": 32,
   "projects": [
     {
       "id": "snake",
@@ -116,6 +116,19 @@
       "source": "CR3ATIX_PROJECT"
     },
     {
+      "id": "github:1377177804",
+      "name": "SYNAPTIK-",
+      "description": "SYNAPTIK est une PWA futuriste d’évaluation cognitive et d’estimation expérimentale du QI, intégrant des tests adaptatifs, une analyse multidimensionnelle des capacités cognitives, des percentiles, des intervalles d’incertitude et un profil cognitif détaillé.",
+      "type": "TypeScript",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/SYNAPTIK-",
+      "defaultBranch": "main",
+      "pushedAt": "2026-09-19T13:54:59Z",
+      "source": "GITHUB"
+    },
+    {
       "id": "github:1363451766",
       "name": "CR3-TIX-COMPANY.",
       "description": "",
@@ -125,7 +138,7 @@
       "url": "",
       "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
       "defaultBranch": "main",
-      "pushedAt": "2026-09-19T04:35:05Z",
+      "pushedAt": "2026-09-19T10:56:06Z",
       "source": "GITHUB"
     },
     {
