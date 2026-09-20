@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T04:51:40.894Z",
+  "generatedAt": "2026-09-20T11:20:09.612Z",
   "primarySource": "https://kevinlabens-del.github.io/creatix-project/projects.json",
   "secondarySource": "GitHub",
   "count": 33,
@@ -136,20 +136,7 @@
       "url": "",
       "repository": "https://github.com/kevinlabens-del/creatix-project",
       "defaultBranch": "main",
-      "pushedAt": "2026-09-20T04:47:22Z",
-      "source": "GITHUB"
-    },
-    {
-      "id": "github:1377177804",
-      "name": "SYNAPTIK-",
-      "description": "SYNAPTIK est une PWA futuriste d’évaluation cognitive et d’estimation expérimentale du QI, intégrant des tests adaptatifs, une analyse multidimensionnelle des capacités cognitives, des percentiles, des intervalles d’incertitude et un profil cognitif détaillé.",
-      "type": "TypeScript",
-      "status": "repository",
-      "progress": 0,
-      "url": "",
-      "repository": "https://github.com/kevinlabens-del/SYNAPTIK-",
-      "defaultBranch": "main",
-      "pushedAt": "2026-09-20T04:27:21Z",
+      "pushedAt": "2026-09-20T05:07:41Z",
       "source": "GITHUB"
     },
     {
@@ -162,7 +149,20 @@
       "url": "",
       "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
       "defaultBranch": "main",
-      "pushedAt": "2026-09-19T20:37:50Z",
+      "pushedAt": "2026-09-20T04:51:44Z",
+      "source": "GITHUB"
+    },
+    {
+      "id": "github:1377177804",
+      "name": "SYNAPTIK-",
+      "description": "SYNAPTIK est une PWA futuriste d’évaluation cognitive et d’estimation expérimentale du QI, intégrant des tests adaptatifs, une analyse multidimensionnelle des capacités cognitives, des percentiles, des intervalles d’incertitude et un profil cognitif détaillé.",
+      "type": "TypeScript",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/SYNAPTIK-",
+      "defaultBranch": "main",
+      "pushedAt": "2026-09-20T06:22:31Z",
       "source": "GITHUB"
     },
     {
