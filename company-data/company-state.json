@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T11:20:09.614Z",
+  "generatedAt": "2026-09-20T16:03:29.119Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -126,8 +126,8 @@
       "stale": null
     },
     {
-      "projectId": "github:1339699609",
-      "project": "creatix-project",
+      "projectId": "github:1377177804",
+      "project": "SYNAPTIK-",
       "score": 30,
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
@@ -144,8 +144,8 @@
       "stale": 0
     },
     {
-      "projectId": "github:1377177804",
-      "project": "SYNAPTIK-",
+      "projectId": "github:1339699609",
+      "project": "creatix-project",
       "score": 30,
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
@@ -177,7 +177,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 5
+      "stale": 6
     },
     {
       "projectId": "github:1346365649",
@@ -186,7 +186,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 5
+      "stale": 6
     },
     {
       "projectId": "github:1366852509",
@@ -231,7 +231,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 20
+      "stale": 21
     },
     {
       "projectId": "github:1290219488",
