@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T12:44:46.044Z",
+  "generatedAt": "2026-09-21T21:57:34.300Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -141,7 +141,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 0
+      "stale": 1
     },
     {
       "projectId": "github:1339699609",
@@ -159,7 +159,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 1
+      "stale": 2
     },
     {
       "projectId": "github:1341277318",
@@ -177,7 +177,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 6
+      "stale": 7
     },
     {
       "projectId": "github:1346365649",
@@ -186,7 +186,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 6
+      "stale": 7
     },
     {
       "projectId": "github:1366852509",
@@ -213,7 +213,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 10
+      "stale": 11
     },
     {
       "projectId": "github:1353168046",
@@ -231,7 +231,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 21
+      "stale": 22
     },
     {
       "projectId": "github:1290219488",
@@ -319,10 +319,10 @@
       "project": "FracassAlarm",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 100 jours.",
+        "Aucune mise à jour GitHub depuis 101 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 100
+      "stale": 101
     }
   ]
 }
