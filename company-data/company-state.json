@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T16:55:27.960Z",
+  "generatedAt": "2026-09-23T21:28:47.230Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -159,7 +159,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 3
+      "stale": 4
     },
     {
       "projectId": "github:1341277318",
@@ -319,10 +319,10 @@
       "project": "FracassAlarm",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 102 jours.",
+        "Aucune mise à jour GitHub depuis 103 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 102
+      "stale": 103
     }
   ]
 }
