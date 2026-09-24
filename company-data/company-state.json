@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T17:08:33.295Z",
+  "generatedAt": "2026-09-24T21:29:34.127Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -126,8 +126,62 @@
       "stale": null
     },
     {
-      "projectId": "github:1363451766",
-      "project": "CR3-TIX-COMPANY.",
+      "projectId": "github:1345482719",
+      "project": "CR3-TIX-ADVENTURE-",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
+      "projectId": "github:1362193422",
+      "project": "CREATIX-MOVIES-",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
+      "projectId": "github:1328376093",
+      "project": "breizh-balade",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
+      "projectId": "github:1348709688",
+      "project": "CR3-TIX-SOUTIEN-",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
+      "projectId": "github:1332103613",
+      "project": "snake-2.0",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
+      "projectId": "github:1341277318",
+      "project": "CR3-TIX-PONG",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
+      "projectId": "github:1345629615",
+      "project": "CR3-TIX-LEARN-LINUX-",
       "score": 30,
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
@@ -141,7 +195,52 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 4
+      "stale": 0
+    },
+    {
+      "projectId": "github:1290219488",
+      "project": "cariste-runner",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
+      "projectId": "github:1366852509",
+      "project": "CR3ATIX-VIGILANCE",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
+      "projectId": "github:1337391544",
+      "project": "devis-lectrique",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
+      "projectId": "github:1346365649",
+      "project": "CR3-TIX-ANALYTIX.",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
+      "projectId": "github:1363451766",
+      "project": "CR3-TIX-COMPANY.",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
     },
     {
       "projectId": "github:1339699609",
@@ -159,16 +258,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 4
-    },
-    {
-      "projectId": "github:1341277318",
-      "project": "CR3-TIX-PONG",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 8
+      "stale": 5
     },
     {
       "projectId": "github:1360078160",
@@ -178,42 +268,6 @@
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
       "stale": 10
-    },
-    {
-      "projectId": "github:1346365649",
-      "project": "CR3-TIX-ANALYTIX.",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 10
-    },
-    {
-      "projectId": "github:1366852509",
-      "project": "CR3ATIX-VIGILANCE",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 10
-    },
-    {
-      "projectId": "github:1348709688",
-      "project": "CR3-TIX-SOUTIEN-",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 10
-    },
-    {
-      "projectId": "github:1362193422",
-      "project": "CREATIX-MOVIES-",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 13
     },
     {
       "projectId": "github:1353168046",
@@ -234,15 +288,6 @@
       "stale": 25
     },
     {
-      "projectId": "github:1290219488",
-      "project": "cariste-runner",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 27
-    },
-    {
       "projectId": "github:1349070366",
       "project": "assistant-jarvis",
       "score": 30,
@@ -250,51 +295,6 @@
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
       "stale": 27
-    },
-    {
-      "projectId": "github:1328376093",
-      "project": "breizh-balade",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 28
-    },
-    {
-      "projectId": "github:1345629615",
-      "project": "CR3-TIX-LEARN-LINUX-",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 28
-    },
-    {
-      "projectId": "github:1345482719",
-      "project": "CR3-TIX-ADVENTURE-",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 28
-    },
-    {
-      "projectId": "github:1332103613",
-      "project": "snake-2.0",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 28
-    },
-    {
-      "projectId": "github:1337391544",
-      "project": "devis-lectrique",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 28
     },
     {
       "projectId": "github:1342162232",
@@ -319,10 +319,10 @@
       "project": "FracassAlarm",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 103 jours.",
+        "Aucune mise à jour GitHub depuis 104 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 103
+      "stale": 104
     }
   ]
 }
