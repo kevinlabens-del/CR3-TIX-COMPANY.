@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T17:08:33.724Z",
+  "generatedAt": "2026-09-25T21:33:04.278Z",
   "tasks": [
     {
       "id": "AUTO-github_1262481671-portfolio-analysis",
@@ -8,7 +8,7 @@
       "project": "FracassAlarm",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de FracassAlarm",
-      "reason": "Aucune mise à jour GitHub depuis 104 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 105 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
