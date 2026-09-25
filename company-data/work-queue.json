@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T21:29:34.127Z",
+  "generatedAt": "2026-09-25T04:54:51.787Z",
   "tasks": [
     {
       "id": "AUTO-github_1262481671-portfolio-analysis",
@@ -114,6 +114,19 @@
       "title": "Analyser l'état réel de SYNAPTIK TEST QI",
       "reason": "Aucun dépôt GitHub associé dans CR3@TIX Project. Projet déclaré en cours (45%).",
       "score": 45,
+      "priority": "medium",
+      "employeeId": "EMP-002",
+      "status": "queued",
+      "createdBy": "EMP-001"
+    },
+    {
+      "id": "AUTO-github_1363451766-portfolio-analysis",
+      "projectId": "github:1363451766",
+      "project": "CR3-TIX-COMPANY.",
+      "type": "portfolio-analysis",
+      "title": "Analyser l'état réel de CR3-TIX-COMPANY.",
+      "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "score": 30,
       "priority": "medium",
       "employeeId": "EMP-002",
       "status": "queued",
@@ -268,19 +281,6 @@
       "project": "CR3-TIX-ANALYTIX.",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de CR3-TIX-ANALYTIX.",
-      "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
-      "score": 30,
-      "priority": "medium",
-      "employeeId": "EMP-002",
-      "status": "queued",
-      "createdBy": "EMP-001"
-    },
-    {
-      "id": "AUTO-github_1363451766-portfolio-analysis",
-      "projectId": "github:1363451766",
-      "project": "CR3-TIX-COMPANY.",
-      "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de CR3-TIX-COMPANY.",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",
