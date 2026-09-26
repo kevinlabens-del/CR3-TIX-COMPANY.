@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T11:22:05.664Z",
+  "generatedAt": "2026-09-26T16:21:39.446Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -126,6 +126,15 @@
       "stale": null
     },
     {
+      "projectId": "github:1346365649",
+      "project": "CR3-TIX-ANALYTIX.",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
       "projectId": "github:1363451766",
       "project": "CR3-TIX-COMPANY.",
       "score": 30,
@@ -234,15 +243,6 @@
       "stale": 1
     },
     {
-      "projectId": "github:1346365649",
-      "project": "CR3-TIX-ANALYTIX.",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 1
-    },
-    {
       "projectId": "github:1339699609",
       "project": "creatix-project",
       "score": 30,
@@ -267,7 +267,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 11
+      "stale": 12
     },
     {
       "projectId": "github:1353168046",
@@ -285,7 +285,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 26
+      "stale": 27
     },
     {
       "projectId": "github:1349070366",
