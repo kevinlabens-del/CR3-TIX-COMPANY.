@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T16:21:39.446Z",
+  "generatedAt": "2026-09-26T21:07:55.799Z",
   "tasks": [
     {
       "id": "AUTO-github_1262481671-portfolio-analysis",
@@ -8,7 +8,7 @@
       "project": "FracassAlarm",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de FracassAlarm",
-      "reason": "Aucune mise à jour GitHub depuis 105 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 106 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
@@ -120,11 +120,11 @@
       "createdBy": "EMP-001"
     },
     {
-      "id": "AUTO-github_1346365649-portfolio-analysis",
-      "projectId": "github:1346365649",
-      "project": "CR3-TIX-ANALYTIX.",
+      "id": "AUTO-github_1363451766-portfolio-analysis",
+      "projectId": "github:1363451766",
+      "project": "CR3-TIX-COMPANY.",
       "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de CR3-TIX-ANALYTIX.",
+      "title": "Analyser l'état réel de CR3-TIX-COMPANY.",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",
@@ -133,11 +133,11 @@
       "createdBy": "EMP-001"
     },
     {
-      "id": "AUTO-github_1363451766-portfolio-analysis",
-      "projectId": "github:1363451766",
-      "project": "CR3-TIX-COMPANY.",
+      "id": "AUTO-github_1346365649-portfolio-analysis",
+      "projectId": "github:1346365649",
+      "project": "CR3-TIX-ANALYTIX.",
       "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de CR3-TIX-COMPANY.",
+      "title": "Analyser l'état réel de CR3-TIX-ANALYTIX.",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",
