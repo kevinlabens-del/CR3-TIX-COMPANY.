@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T11:59:21.173Z",
+  "generatedAt": "2026-09-27T16:56:27.748Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -150,7 +150,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 0
+      "stale": 1
     },
     {
       "projectId": "github:1345482719",
@@ -276,7 +276,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 12
+      "stale": 13
     },
     {
       "projectId": "github:1353168046",
@@ -294,7 +294,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 27
+      "stale": 28
     },
     {
       "projectId": "github:1349070366",
