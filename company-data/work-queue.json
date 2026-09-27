@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T05:15:58.963Z",
+  "generatedAt": "2026-09-27T11:59:21.173Z",
   "tasks": [
     {
       "id": "AUTO-github_1262481671-portfolio-analysis",
@@ -120,11 +120,11 @@
       "createdBy": "EMP-001"
     },
     {
-      "id": "AUTO-github_1389997806-portfolio-analysis",
-      "projectId": "github:1389997806",
-      "project": "CR3ATIX-MULTI-CONTROL",
+      "id": "AUTO-github_1363451766-portfolio-analysis",
+      "projectId": "github:1363451766",
+      "project": "CR3-TIX-COMPANY.",
       "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de CR3ATIX-MULTI-CONTROL",
+      "title": "Analyser l'état réel de CR3-TIX-COMPANY.",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",
@@ -133,11 +133,11 @@
       "createdBy": "EMP-001"
     },
     {
-      "id": "AUTO-github_1363451766-portfolio-analysis",
-      "projectId": "github:1363451766",
-      "project": "CR3-TIX-COMPANY.",
+      "id": "AUTO-github_1389997806-portfolio-analysis",
+      "projectId": "github:1389997806",
+      "project": "CR3ATIX-MULTI-CONTROL",
       "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de CR3-TIX-COMPANY.",
+      "title": "Analyser l'état réel de CR3ATIX-MULTI-CONTROL",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",
