@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T21:07:55.796Z",
+  "generatedAt": "2026-09-27T05:15:58.960Z",
   "primarySource": "https://kevinlabens-del.github.io/creatix-project/projects.json",
   "secondarySource": "GitHub",
-  "count": 33,
+  "count": 34,
   "projects": [
     {
       "id": "snake",
@@ -127,6 +127,19 @@
       "source": "CR3ATIX_PROJECT"
     },
     {
+      "id": "github:1389997806",
+      "name": "CR3ATIX-MULTI-CONTROL",
+      "description": "",
+      "type": "Java",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/CR3ATIX-MULTI-CONTROL",
+      "defaultBranch": "main",
+      "pushedAt": "2026-09-27T03:31:28Z",
+      "source": "GITHUB"
+    },
+    {
       "id": "github:1363451766",
       "name": "CR3-TIX-COMPANY.",
       "description": "",
@@ -136,7 +149,7 @@
       "url": "",
       "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
       "defaultBranch": "main",
-      "pushedAt": "2026-09-26T16:21:44Z",
+      "pushedAt": "2026-09-26T21:07:59Z",
       "source": "GITHUB"
     },
     {
