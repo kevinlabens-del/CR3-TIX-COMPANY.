@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T22:13:26.303Z",
+  "generatedAt": "2026-10-01T05:48:45.502Z",
   "primarySource": "https://kevinlabens-del.github.io/creatix-project/projects.json",
   "secondarySource": "GitHub",
   "count": 34,
@@ -127,6 +127,19 @@
       "source": "CR3ATIX_PROJECT"
     },
     {
+      "id": "github:1363451766",
+      "name": "CR3-TIX-COMPANY.",
+      "description": "",
+      "type": "HTML",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
+      "defaultBranch": "main",
+      "pushedAt": "2026-09-30T22:13:30Z",
+      "source": "GITHUB"
+    },
+    {
       "id": "github:1353168640",
       "name": "oeil-de-dieu",
       "description": "",
@@ -137,19 +150,6 @@
       "repository": "https://github.com/kevinlabens-del/oeil-de-dieu",
       "defaultBranch": "main",
       "pushedAt": "2026-09-30T12:38:29Z",
-      "source": "GITHUB"
-    },
-    {
-      "id": "github:1363451766",
-      "name": "CR3-TIX-COMPANY.",
-      "description": "",
-      "type": "HTML",
-      "status": "repository",
-      "progress": 0,
-      "url": "",
-      "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
-      "defaultBranch": "main",
-      "pushedAt": "2026-09-30T12:31:39Z",
       "source": "GITHUB"
     },
     {

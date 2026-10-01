@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T22:13:26.305Z",
+  "generatedAt": "2026-10-01T05:48:45.505Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -126,8 +126,8 @@
       "stale": null
     },
     {
-      "projectId": "github:1353168640",
-      "project": "oeil-de-dieu",
+      "projectId": "github:1363451766",
+      "project": "CR3-TIX-COMPANY.",
       "score": 30,
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
@@ -135,8 +135,8 @@
       "stale": 0
     },
     {
-      "projectId": "github:1363451766",
-      "project": "CR3-TIX-COMPANY.",
+      "projectId": "github:1353168640",
+      "project": "oeil-de-dieu",
       "score": 30,
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
@@ -150,7 +150,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 3
+      "stale": 4
     },
     {
       "projectId": "github:1346365649",
@@ -267,7 +267,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 10
+      "stale": 11
     },
     {
       "projectId": "github:1360078160",
@@ -285,7 +285,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 29
+      "stale": 30
     },
     {
       "projectId": "github:1351098070",
@@ -303,7 +303,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 33
+      "stale": 34
     },
     {
       "projectId": "github:1342162232",
@@ -312,7 +312,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 39
+      "stale": 40
     },
     {
       "projectId": "github:1337729427",
