@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T05:15:45.523Z",
+  "generatedAt": "2026-10-03T11:37:05.128Z",
   "tasks": [
+    {
+      "id": "AUTO-github_1337729427-portfolio-analysis",
+      "projectId": "github:1337729427",
+      "project": "only-eyes",
+      "type": "portfolio-analysis",
+      "title": "Analyser l'état réel de only-eyes",
+      "reason": "Aucune mise à jour GitHub depuis 46 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "score": 50,
+      "priority": "medium",
+      "employeeId": "EMP-002",
+      "status": "queued",
+      "createdBy": "EMP-001"
+    },
     {
       "id": "AUTO-github_1262481671-portfolio-analysis",
       "projectId": "github:1262481671",
@@ -385,19 +398,6 @@
       "project": "NYXEL-AI",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de NYXEL-AI",
-      "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
-      "score": 30,
-      "priority": "medium",
-      "employeeId": "EMP-002",
-      "status": "queued",
-      "createdBy": "EMP-001"
-    },
-    {
-      "id": "AUTO-github_1337729427-portfolio-analysis",
-      "projectId": "github:1337729427",
-      "project": "only-eyes",
-      "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de only-eyes",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",
