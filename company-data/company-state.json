@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T05:49:34.810Z",
+  "generatedAt": "2026-10-04T12:18:36.289Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -319,10 +319,10 @@
       "project": "only-eyes",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 46 jours.",
+        "Aucune mise à jour GitHub depuis 47 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 46
+      "stale": 47
     },
     {
       "projectId": "github:1262481671",
