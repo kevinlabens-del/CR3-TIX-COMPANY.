@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T06:17:24.411Z",
+  "generatedAt": "2026-10-06T18:20:02.410Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -126,6 +126,15 @@
       "stale": null
     },
     {
+      "projectId": "github:1262481671",
+      "project": "FracassAlarm",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
       "projectId": "github:1363451766",
       "project": "CR3-TIX-COMPANY.",
       "score": 30,
@@ -141,7 +150,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 5
+      "stale": 6
     },
     {
       "projectId": "github:1389997806",
@@ -159,7 +168,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 9
+      "stale": 10
     },
     {
       "projectId": "github:1345482719",
@@ -276,7 +285,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 21
+      "stale": 22
     },
     {
       "projectId": "github:1353168046",
@@ -294,7 +303,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 36
+      "stale": 37
     },
     {
       "projectId": "github:1349070366",
@@ -319,20 +328,10 @@
       "project": "only-eyes",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 48 jours.",
+        "Aucune mise à jour GitHub depuis 49 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 48
-    },
-    {
-      "projectId": "github:1262481671",
-      "project": "FracassAlarm",
-      "score": 50,
-      "findings": [
-        "Aucune mise à jour GitHub depuis 115 jours.",
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 115
+      "stale": 49
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T06:17:24.409Z",
+  "generatedAt": "2026-10-06T18:20:02.407Z",
   "primarySource": "https://kevinlabens-del.github.io/creatix-project/projects.json",
   "secondarySource": "GitHub",
   "count": 34,
@@ -127,6 +127,19 @@
       "source": "CR3ATIX_PROJECT"
     },
     {
+      "id": "github:1262481671",
+      "name": "FracassAlarm",
+      "description": "",
+      "type": "repository",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/FracassAlarm",
+      "defaultBranch": "main",
+      "pushedAt": "2026-10-06T06:28:05Z",
+      "source": "GITHUB"
+    },
+    {
       "id": "github:1363451766",
       "name": "CR3-TIX-COMPANY.",
       "description": "",
@@ -136,7 +149,7 @@
       "url": "",
       "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
       "defaultBranch": "main",
-      "pushedAt": "2026-10-06T00:01:36Z",
+      "pushedAt": "2026-10-06T06:17:27Z",
       "source": "GITHUB"
     },
     {
@@ -410,19 +423,6 @@
       "repository": "https://github.com/kevinlabens-del/only-eyes",
       "defaultBranch": "main",
       "pushedAt": "2026-08-18T10:40:29Z",
-      "source": "GITHUB"
-    },
-    {
-      "id": "github:1262481671",
-      "name": "FracassAlarm",
-      "description": "",
-      "type": "repository",
-      "status": "repository",
-      "progress": 0,
-      "url": "",
-      "repository": "https://github.com/kevinlabens-del/FracassAlarm",
-      "defaultBranch": "main",
-      "pushedAt": "2026-06-12T19:51:14Z",
       "source": "GITHUB"
     }
   ]
