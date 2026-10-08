@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:25:30.105Z",
+  "generatedAt": "2026-10-08T23:19:13.198Z",
   "tasks": [
     {
       "id": "AUTO-github_1342162232-portfolio-analysis",
@@ -127,6 +127,19 @@
       "title": "Analyser l'état réel de SYNAPTIK TEST QI",
       "reason": "Aucun dépôt GitHub associé dans CR3@TIX Project. Projet déclaré en cours (45%).",
       "score": 45,
+      "priority": "medium",
+      "employeeId": "EMP-002",
+      "status": "queued",
+      "createdBy": "EMP-001"
+    },
+    {
+      "id": "AUTO-github_1339699609-portfolio-analysis",
+      "projectId": "github:1339699609",
+      "project": "creatix-project",
+      "type": "portfolio-analysis",
+      "title": "Analyser l'état réel de creatix-project",
+      "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "score": 30,
       "priority": "medium",
       "employeeId": "EMP-002",
       "status": "queued",
@@ -333,19 +346,6 @@
       "project": "devis-lectrique",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de devis-lectrique",
-      "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
-      "score": 30,
-      "priority": "medium",
-      "employeeId": "EMP-002",
-      "status": "queued",
-      "createdBy": "EMP-001"
-    },
-    {
-      "id": "AUTO-github_1339699609-portfolio-analysis",
-      "projectId": "github:1339699609",
-      "project": "creatix-project",
-      "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de creatix-project",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",

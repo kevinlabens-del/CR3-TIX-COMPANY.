@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:25:30.102Z",
+  "generatedAt": "2026-10-08T23:19:13.195Z",
   "primarySource": "https://kevinlabens-del.github.io/creatix-project/projects.json",
   "secondarySource": "GitHub",
   "count": 34,
@@ -127,6 +127,19 @@
       "source": "CR3ATIX_PROJECT"
     },
     {
+      "id": "github:1339699609",
+      "name": "creatix-project",
+      "description": "tableau de bord creatix",
+      "type": "JavaScript",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/creatix-project",
+      "defaultBranch": "main",
+      "pushedAt": "2026-10-08T17:53:12Z",
+      "source": "GITHUB"
+    },
+    {
       "id": "github:1363451766",
       "name": "CR3-TIX-COMPANY.",
       "description": "",
@@ -136,7 +149,7 @@
       "url": "",
       "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
       "defaultBranch": "main",
-      "pushedAt": "2026-10-08T06:00:03Z",
+      "pushedAt": "2026-10-08T13:25:35Z",
       "source": "GITHUB"
     },
     {
@@ -332,19 +345,6 @@
       "repository": "https://github.com/kevinlabens-del/devis-lectrique",
       "defaultBranch": "main",
       "pushedAt": "2026-09-24T19:03:15Z",
-      "source": "GITHUB"
-    },
-    {
-      "id": "github:1339699609",
-      "name": "creatix-project",
-      "description": "tableau de bord creatix",
-      "type": "JavaScript",
-      "status": "repository",
-      "progress": 0,
-      "url": "",
-      "repository": "https://github.com/kevinlabens-del/creatix-project",
-      "defaultBranch": "main",
-      "pushedAt": "2026-09-20T05:07:41Z",
       "source": "GITHUB"
     },
     {

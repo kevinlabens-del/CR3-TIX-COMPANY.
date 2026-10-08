@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T13:25:30.105Z",
+  "generatedAt": "2026-10-08T23:19:13.198Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -126,6 +126,15 @@
       "stale": null
     },
     {
+      "projectId": "github:1339699609",
+      "project": "creatix-project",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
       "projectId": "github:1363451766",
       "project": "CR3-TIX-COMPANY.",
       "score": 30,
@@ -168,7 +177,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 11
+      "stale": 12
     },
     {
       "projectId": "github:1345482719",
@@ -177,7 +186,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 13
+      "stale": 14
     },
     {
       "projectId": "github:1362193422",
@@ -186,7 +195,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 13
+      "stale": 14
     },
     {
       "projectId": "github:1328376093",
@@ -195,7 +204,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 13
+      "stale": 14
     },
     {
       "projectId": "github:1348709688",
@@ -204,7 +213,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 13
+      "stale": 14
     },
     {
       "projectId": "github:1332103613",
@@ -213,7 +222,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 13
+      "stale": 14
     },
     {
       "projectId": "github:1341277318",
@@ -222,7 +231,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 13
+      "stale": 14
     },
     {
       "projectId": "github:1345629615",
@@ -231,7 +240,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 13
+      "stale": 14
     },
     {
       "projectId": "github:1377177804",
@@ -240,7 +249,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 13
+      "stale": 14
     },
     {
       "projectId": "github:1290219488",
@@ -249,7 +258,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 13
+      "stale": 14
     },
     {
       "projectId": "github:1366852509",
@@ -258,7 +267,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 13
+      "stale": 14
     },
     {
       "projectId": "github:1337391544",
@@ -267,16 +276,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 13
-    },
-    {
-      "projectId": "github:1339699609",
-      "project": "creatix-project",
-      "score": 30,
-      "findings": [
-        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
-      ],
-      "stale": 18
+      "stale": 14
     },
     {
       "projectId": "github:1360078160",
@@ -285,7 +285,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 23
+      "stale": 24
     },
     {
       "projectId": "github:1353168046",
@@ -303,7 +303,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 38
+      "stale": 39
     },
     {
       "projectId": "github:1349070366",
