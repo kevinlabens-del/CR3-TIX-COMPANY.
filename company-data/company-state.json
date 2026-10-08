@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T23:03:36.395Z",
+  "generatedAt": "2026-10-08T05:59:59.438Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -159,7 +159,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 10
+      "stale": 11
     },
     {
       "projectId": "github:1346365649",
@@ -276,7 +276,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 17
+      "stale": 18
     },
     {
       "projectId": "github:1360078160",
@@ -294,7 +294,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 36
+      "stale": 37
     },
     {
       "projectId": "github:1351098070",
@@ -312,17 +312,17 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 40
+      "stale": 41
     },
     {
       "projectId": "github:1342162232",
       "project": "NYXEL-AI",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 46 jours.",
+        "Aucune mise à jour GitHub depuis 47 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 46
+      "stale": 47
     },
     {
       "projectId": "github:1337729427",
