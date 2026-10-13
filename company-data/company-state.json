@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T00:37:17.671Z",
+  "generatedAt": "2026-10-13T14:08:17.771Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -150,7 +150,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 6
+      "stale": 7
     },
     {
       "projectId": "github:1353168640",
@@ -159,7 +159,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 12
+      "stale": 13
     },
     {
       "projectId": "github:1389997806",
@@ -168,7 +168,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 15
+      "stale": 16
     },
     {
       "projectId": "github:1346365649",
@@ -294,7 +294,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 41
+      "stale": 42
     },
     {
       "projectId": "github:1351098070",
@@ -308,31 +308,32 @@
     {
       "projectId": "github:1349070366",
       "project": "assistant-jarvis",
-      "score": 30,
+      "score": 50,
       "findings": [
+        "Aucune mise à jour GitHub depuis 46 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 45
+      "stale": 46
     },
     {
       "projectId": "github:1342162232",
       "project": "NYXEL-AI",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 51 jours.",
+        "Aucune mise à jour GitHub depuis 52 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 51
+      "stale": 52
     },
     {
       "projectId": "github:1337729427",
       "project": "only-eyes",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 55 jours.",
+        "Aucune mise à jour GitHub depuis 56 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 55
+      "stale": 56
     }
   ]
 }
