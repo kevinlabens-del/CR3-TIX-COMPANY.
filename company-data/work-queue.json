@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T04:50:11.025Z",
+  "generatedAt": "2026-10-14T11:48:23.101Z",
   "tasks": [
     {
       "id": "AUTO-github_1349070366-portfolio-analysis",
@@ -34,7 +34,7 @@
       "project": "only-eyes",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de only-eyes",
-      "reason": "Aucune mise à jour GitHub depuis 56 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 57 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
