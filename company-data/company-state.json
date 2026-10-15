@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T21:39:04.609Z",
+  "generatedAt": "2026-10-15T04:34:40.542Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -168,7 +168,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 17
+      "stale": 18
     },
     {
       "projectId": "github:1346365649",
@@ -310,20 +310,20 @@
       "project": "assistant-jarvis",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 47 jours.",
+        "Aucune mise à jour GitHub depuis 48 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 47
+      "stale": 48
     },
     {
       "projectId": "github:1342162232",
       "project": "NYXEL-AI",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 53 jours.",
+        "Aucune mise à jour GitHub depuis 54 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 53
+      "stale": 54
     },
     {
       "projectId": "github:1337729427",
