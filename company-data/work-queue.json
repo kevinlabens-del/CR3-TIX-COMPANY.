@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:25:04.820Z",
+  "generatedAt": "2026-10-15T16:58:14.604Z",
   "tasks": [
+    {
+      "id": "AUTO-github_1351098070-portfolio-analysis",
+      "projectId": "github:1351098070",
+      "project": "CREATIX-MAN",
+      "type": "portfolio-analysis",
+      "title": "Analyser l'état réel de CREATIX-MAN",
+      "reason": "Aucune mise à jour GitHub depuis 46 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "score": 50,
+      "priority": "medium",
+      "employeeId": "EMP-002",
+      "status": "queued",
+      "createdBy": "EMP-001"
+    },
     {
       "id": "AUTO-github_1349070366-portfolio-analysis",
       "projectId": "github:1349070366",
@@ -385,19 +398,6 @@
       "project": "-il-de-dieu",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de -il-de-dieu",
-      "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
-      "score": 30,
-      "priority": "medium",
-      "employeeId": "EMP-002",
-      "status": "queued",
-      "createdBy": "EMP-001"
-    },
-    {
-      "id": "AUTO-github_1351098070-portfolio-analysis",
-      "projectId": "github:1351098070",
-      "project": "CREATIX-MAN",
-      "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de CREATIX-MAN",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",
