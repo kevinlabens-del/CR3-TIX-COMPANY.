@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T11:32:32.381Z",
+  "generatedAt": "2026-10-20T17:00:13.443Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -159,7 +159,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 19
+      "stale": 20
     },
     {
       "projectId": "github:1389997806",
@@ -177,7 +177,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 23
+      "stale": 24
     },
     {
       "projectId": "github:1345482719",
@@ -285,7 +285,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 35
+      "stale": 36
     },
     {
       "projectId": "github:1353168046",
@@ -302,10 +302,10 @@
       "project": "CREATIX-MAN",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 50 jours.",
+        "Aucune mise à jour GitHub depuis 51 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 50
+      "stale": 51
     },
     {
       "projectId": "github:1349070366",
