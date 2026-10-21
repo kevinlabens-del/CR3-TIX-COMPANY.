@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T21:35:11.389Z",
+  "generatedAt": "2026-10-21T04:42:28.684Z",
   "tasks": [
     {
       "id": "AUTO-github_1353168046-portfolio-analysis",
@@ -34,7 +34,7 @@
       "project": "assistant-jarvis",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de assistant-jarvis",
-      "reason": "Aucune mise à jour GitHub depuis 53 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 54 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
@@ -47,7 +47,7 @@
       "project": "NYXEL-AI",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de NYXEL-AI",
-      "reason": "Aucune mise à jour GitHub depuis 59 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 60 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
