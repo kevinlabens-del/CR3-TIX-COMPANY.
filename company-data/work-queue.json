@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T04:42:57.503Z",
+  "generatedAt": "2026-10-26T12:56:55.289Z",
   "tasks": [
     {
       "id": "AUTO-github_1353168046-portfolio-analysis",
@@ -8,7 +8,7 @@
       "project": "-il-de-dieu",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de -il-de-dieu",
-      "reason": "Aucune mise à jour GitHub depuis 54 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 55 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
@@ -60,7 +60,7 @@
       "project": "only-eyes",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de only-eyes",
-      "reason": "Aucune mise à jour GitHub depuis 68 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 69 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
