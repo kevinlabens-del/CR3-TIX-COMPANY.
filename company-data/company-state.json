@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T04:59:48.254Z",
+  "generatedAt": "2026-10-27T12:07:13.777Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -150,7 +150,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 20
+      "stale": 21
     },
     {
       "projectId": "github:1353168640",
@@ -292,10 +292,10 @@
       "project": "-il-de-dieu",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 55 jours.",
+        "Aucune mise à jour GitHub depuis 56 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 55
+      "stale": 56
     },
     {
       "projectId": "github:1351098070",
@@ -332,10 +332,10 @@
       "project": "only-eyes",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 69 jours.",
+        "Aucune mise à jour GitHub depuis 70 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 69
+      "stale": 70
     }
   ]
 }
