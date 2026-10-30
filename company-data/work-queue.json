@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T12:50:35.144Z",
+  "generatedAt": "2026-10-30T22:16:08.593Z",
   "tasks": [
+    {
+      "id": "AUTO-github_1360078160-portfolio-analysis",
+      "projectId": "github:1360078160",
+      "project": "creatix-ai-live",
+      "type": "portfolio-analysis",
+      "title": "Analyser l'état réel de creatix-ai-live",
+      "reason": "Aucune mise à jour GitHub depuis 46 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "score": 50,
+      "priority": "medium",
+      "employeeId": "EMP-002",
+      "status": "queued",
+      "createdBy": "EMP-001"
+    },
     {
       "id": "AUTO-github_1353168046-portfolio-analysis",
       "projectId": "github:1353168046",
@@ -21,7 +34,7 @@
       "project": "CREATIX-MAN",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de CREATIX-MAN",
-      "reason": "Aucune mise à jour GitHub depuis 60 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 61 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
@@ -385,19 +398,6 @@
       "project": "devis-lectrique",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de devis-lectrique",
-      "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
-      "score": 30,
-      "priority": "medium",
-      "employeeId": "EMP-002",
-      "status": "queued",
-      "createdBy": "EMP-001"
-    },
-    {
-      "id": "AUTO-github_1360078160-portfolio-analysis",
-      "projectId": "github:1360078160",
-      "project": "creatix-ai-live",
-      "type": "portfolio-analysis",
-      "title": "Analyser l'état réel de creatix-ai-live",
       "reason": "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 30,
       "priority": "medium",
