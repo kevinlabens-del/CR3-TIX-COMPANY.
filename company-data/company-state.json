@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T05:57:54.108Z",
+  "generatedAt": "2026-11-02T15:44:42.272Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -150,7 +150,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 26
+      "stale": 27
     },
     {
       "projectId": "github:1353168640",
@@ -159,7 +159,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 32
+      "stale": 33
     },
     {
       "projectId": "github:1389997806",
@@ -177,7 +177,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 36
+      "stale": 37
     },
     {
       "projectId": "github:1345482719",
@@ -283,10 +283,10 @@
       "project": "creatix-ai-live",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 48 jours.",
+        "Aucune mise à jour GitHub depuis 49 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 48
+      "stale": 49
     },
     {
       "projectId": "github:1353168046",
@@ -303,10 +303,10 @@
       "project": "CREATIX-MAN",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 63 jours.",
+        "Aucune mise à jour GitHub depuis 64 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 63
+      "stale": 64
     },
     {
       "projectId": "github:1349070366",
@@ -333,10 +333,10 @@
       "project": "only-eyes",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 75 jours.",
+        "Aucune mise à jour GitHub depuis 76 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 75
+      "stale": 76
     }
   ]
 }

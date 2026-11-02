@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T05:57:54.108Z",
+  "generatedAt": "2026-11-02T15:44:42.272Z",
   "tasks": [
     {
       "id": "AUTO-github_1360078160-portfolio-analysis",
@@ -8,7 +8,7 @@
       "project": "creatix-ai-live",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de creatix-ai-live",
-      "reason": "Aucune mise à jour GitHub depuis 48 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 49 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
@@ -34,7 +34,7 @@
       "project": "CREATIX-MAN",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de CREATIX-MAN",
-      "reason": "Aucune mise à jour GitHub depuis 63 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 64 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
@@ -73,7 +73,7 @@
       "project": "only-eyes",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de only-eyes",
-      "reason": "Aucune mise à jour GitHub depuis 75 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 76 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
