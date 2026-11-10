@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T22:18:18.148Z",
+  "generatedAt": "2026-11-10T07:13:37.909Z",
   "tasks": [
     {
       "id": "AUTO-github_1345482719-portfolio-analysis",
@@ -151,7 +151,7 @@
       "project": "-il-de-dieu",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de -il-de-dieu",
-      "reason": "Aucune mise à jour GitHub depuis 69 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 70 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
@@ -177,7 +177,7 @@
       "project": "assistant-jarvis",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de assistant-jarvis",
-      "reason": "Aucune mise à jour GitHub depuis 73 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 74 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
@@ -190,7 +190,7 @@
       "project": "NYXEL-AI",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de NYXEL-AI",
-      "reason": "Aucune mise à jour GitHub depuis 79 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 80 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
