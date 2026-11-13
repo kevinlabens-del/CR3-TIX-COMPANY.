@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T23:35:40.647Z",
+  "generatedAt": "2026-11-13T06:40:26.434Z",
   "tasks": [
     {
       "id": "AUTO-github_1389997806-portfolio-analysis",
@@ -8,7 +8,7 @@
       "project": "CR3ATIX-MULTI-CONTROL",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de CR3ATIX-MULTI-CONTROL",
-      "reason": "Aucune mise à jour GitHub depuis 46 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 47 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
@@ -177,7 +177,7 @@
       "project": "-il-de-dieu",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de -il-de-dieu",
-      "reason": "Aucune mise à jour GitHub depuis 72 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 73 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
@@ -203,7 +203,7 @@
       "project": "assistant-jarvis",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de assistant-jarvis",
-      "reason": "Aucune mise à jour GitHub depuis 76 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 77 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
@@ -216,7 +216,7 @@
       "project": "NYXEL-AI",
       "type": "portfolio-analysis",
       "title": "Analyser l'état réel de NYXEL-AI",
-      "reason": "Aucune mise à jour GitHub depuis 82 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
+      "reason": "Aucune mise à jour GitHub depuis 83 jours. Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement.",
       "score": 50,
       "priority": "medium",
       "employeeId": "EMP-002",
