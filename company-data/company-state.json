@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T22:20:33.367Z",
+  "generatedAt": "2026-11-15T06:24:15.259Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -166,10 +166,10 @@
       "project": "CR3ATIX-MULTI-CONTROL",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 48 jours.",
+        "Aucune mise à jour GitHub depuis 49 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 48
+      "stale": 49
     },
     {
       "projectId": "github:1346365649",
@@ -268,7 +268,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 16
+      "stale": 17
     },
     {
       "projectId": "github:1366852509",
@@ -305,10 +305,10 @@
       "project": "-il-de-dieu",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 74 jours.",
+        "Aucune mise à jour GitHub depuis 75 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 74
+      "stale": 75
     },
     {
       "projectId": "github:1351098070",
@@ -325,20 +325,20 @@
       "project": "assistant-jarvis",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 78 jours.",
+        "Aucune mise à jour GitHub depuis 79 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 78
+      "stale": 79
     },
     {
       "projectId": "github:1342162232",
       "project": "NYXEL-AI",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 84 jours.",
+        "Aucune mise à jour GitHub depuis 85 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 84
+      "stale": 85
     },
     {
       "projectId": "github:1337729427",
