@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T07:51:42.176Z",
+  "generatedAt": "2026-11-17T20:52:19.507Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
@@ -141,7 +141,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 39
+      "stale": 40
     },
     {
       "projectId": "github:1262481671",
@@ -157,10 +157,10 @@
       "project": "oeil-de-dieu",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 47 jours.",
+        "Aucune mise à jour GitHub depuis 48 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 47
+      "stale": 48
     },
     {
       "projectId": "github:1389997806",
@@ -177,90 +177,90 @@
       "project": "CR3-TIX-ANALYTIX.",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 51 jours.",
+        "Aucune mise à jour GitHub depuis 52 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 51
+      "stale": 52
     },
     {
       "projectId": "github:1345482719",
       "project": "CR3-TIX-ADVENTURE-",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 53 jours.",
+        "Aucune mise à jour GitHub depuis 54 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 53
+      "stale": 54
     },
     {
       "projectId": "github:1362193422",
       "project": "CREATIX-MOVIES-",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 53 jours.",
+        "Aucune mise à jour GitHub depuis 54 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 53
+      "stale": 54
     },
     {
       "projectId": "github:1328376093",
       "project": "breizh-balade",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 53 jours.",
+        "Aucune mise à jour GitHub depuis 54 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 53
+      "stale": 54
     },
     {
       "projectId": "github:1348709688",
       "project": "CR3-TIX-SOUTIEN-",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 53 jours.",
+        "Aucune mise à jour GitHub depuis 54 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 53
+      "stale": 54
     },
     {
       "projectId": "github:1332103613",
       "project": "snake-2.0",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 53 jours.",
+        "Aucune mise à jour GitHub depuis 54 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 53
+      "stale": 54
     },
     {
       "projectId": "github:1341277318",
       "project": "CR3-TIX-PONG",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 53 jours.",
+        "Aucune mise à jour GitHub depuis 54 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 53
+      "stale": 54
     },
     {
       "projectId": "github:1345629615",
       "project": "CR3-TIX-LEARN-LINUX-",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 53 jours.",
+        "Aucune mise à jour GitHub depuis 54 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 53
+      "stale": 54
     },
     {
       "projectId": "github:1377177804",
       "project": "SYNAPTIK-",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 53 jours.",
+        "Aucune mise à jour GitHub depuis 54 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 53
+      "stale": 54
     },
     {
       "projectId": "github:1290219488",
@@ -276,30 +276,30 @@
       "project": "CR3ATIX-VIGILANCE",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 53 jours.",
+        "Aucune mise à jour GitHub depuis 54 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 53
+      "stale": 54
     },
     {
       "projectId": "github:1337391544",
       "project": "devis-lectrique",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 53 jours.",
+        "Aucune mise à jour GitHub depuis 54 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 53
+      "stale": 54
     },
     {
       "projectId": "github:1360078160",
       "project": "creatix-ai-live",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 63 jours.",
+        "Aucune mise à jour GitHub depuis 64 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 63
+      "stale": 64
     },
     {
       "projectId": "github:1353168046",
@@ -316,10 +316,10 @@
       "project": "CREATIX-MAN",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 78 jours.",
+        "Aucune mise à jour GitHub depuis 79 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 78
+      "stale": 79
     },
     {
       "projectId": "github:1349070366",
@@ -346,10 +346,10 @@
       "project": "only-eyes",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 90 jours.",
+        "Aucune mise à jour GitHub depuis 91 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 90
+      "stale": 91
     }
   ]
 }
