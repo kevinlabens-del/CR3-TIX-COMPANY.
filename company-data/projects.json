@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T07:20:33.194Z",
+  "generatedAt": "2026-11-19T20:31:43.831Z",
   "primarySource": "https://kevinlabens-del.github.io/creatix-project/projects.json",
   "secondarySource": "GitHub",
-  "count": 35,
+  "count": 36,
   "projects": [
     {
       "id": "snake",
@@ -127,6 +127,19 @@
       "source": "CR3ATIX_PROJECT"
     },
     {
+      "id": "github:1464112636",
+      "name": "NEON-LOCK",
+      "description": "écran de verrouillage ",
+      "type": "Java",
+      "status": "repository",
+      "progress": 0,
+      "url": "",
+      "repository": "https://github.com/kevinlabens-del/NEON-LOCK",
+      "defaultBranch": "main",
+      "pushedAt": "2026-11-19T20:28:43Z",
+      "source": "GITHUB"
+    },
+    {
       "id": "github:1462130277",
       "name": "Free-zik",
       "description": "",
@@ -149,7 +162,7 @@
       "url": "",
       "repository": "https://github.com/kevinlabens-del/CR3-TIX-COMPANY.",
       "defaultBranch": "main",
-      "pushedAt": "2026-11-18T20:28:01Z",
+      "pushedAt": "2026-11-19T07:20:37Z",
       "source": "GITHUB"
     },
     {

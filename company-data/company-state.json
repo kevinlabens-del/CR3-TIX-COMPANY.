@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T07:20:33.196Z",
+  "generatedAt": "2026-11-19T20:31:43.832Z",
   "company": "CR3@TIX COMPANY",
   "mode": "autonomous-supervised",
   "bossRole": "final_validation_only",
-  "projectCount": 35,
-  "openAutomaticTasks": 32,
+  "projectCount": 36,
+  "openAutomaticTasks": 33,
   "employeesActive": [
     "EMP-001",
     "EMP-002",
@@ -126,13 +126,22 @@
       "stale": null
     },
     {
+      "projectId": "github:1464112636",
+      "project": "NEON-LOCK",
+      "score": 30,
+      "findings": [
+        "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
+      ],
+      "stale": 0
+    },
+    {
       "projectId": "github:1462130277",
       "project": "Free-zik",
       "score": 30,
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 0
+      "stale": 1
     },
     {
       "projectId": "github:1363451766",
@@ -150,7 +159,7 @@
       "findings": [
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 41
+      "stale": 42
     },
     {
       "projectId": "github:1262481671",
@@ -166,10 +175,10 @@
       "project": "oeil-de-dieu",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 49 jours.",
+        "Aucune mise à jour GitHub depuis 50 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 49
+      "stale": 50
     },
     {
       "projectId": "github:1389997806",
@@ -186,90 +195,90 @@
       "project": "CR3-TIX-ANALYTIX.",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 53 jours.",
+        "Aucune mise à jour GitHub depuis 54 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 53
+      "stale": 54
     },
     {
       "projectId": "github:1345482719",
       "project": "CR3-TIX-ADVENTURE-",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 55 jours.",
+        "Aucune mise à jour GitHub depuis 56 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 55
+      "stale": 56
     },
     {
       "projectId": "github:1362193422",
       "project": "CREATIX-MOVIES-",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 55 jours.",
+        "Aucune mise à jour GitHub depuis 56 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 55
+      "stale": 56
     },
     {
       "projectId": "github:1328376093",
       "project": "breizh-balade",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 55 jours.",
+        "Aucune mise à jour GitHub depuis 56 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 55
+      "stale": 56
     },
     {
       "projectId": "github:1348709688",
       "project": "CR3-TIX-SOUTIEN-",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 55 jours.",
+        "Aucune mise à jour GitHub depuis 56 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 55
+      "stale": 56
     },
     {
       "projectId": "github:1332103613",
       "project": "snake-2.0",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 55 jours.",
+        "Aucune mise à jour GitHub depuis 56 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 55
+      "stale": 56
     },
     {
       "projectId": "github:1341277318",
       "project": "CR3-TIX-PONG",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 55 jours.",
+        "Aucune mise à jour GitHub depuis 56 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 55
+      "stale": 56
     },
     {
       "projectId": "github:1345629615",
       "project": "CR3-TIX-LEARN-LINUX-",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 55 jours.",
+        "Aucune mise à jour GitHub depuis 56 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 55
+      "stale": 56
     },
     {
       "projectId": "github:1377177804",
       "project": "SYNAPTIK-",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 55 jours.",
+        "Aucune mise à jour GitHub depuis 56 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 55
+      "stale": 56
     },
     {
       "projectId": "github:1290219488",
@@ -285,30 +294,30 @@
       "project": "CR3ATIX-VIGILANCE",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 55 jours.",
+        "Aucune mise à jour GitHub depuis 56 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 55
+      "stale": 56
     },
     {
       "projectId": "github:1337391544",
       "project": "devis-lectrique",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 55 jours.",
+        "Aucune mise à jour GitHub depuis 56 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 55
+      "stale": 56
     },
     {
       "projectId": "github:1360078160",
       "project": "creatix-ai-live",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 65 jours.",
+        "Aucune mise à jour GitHub depuis 66 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 65
+      "stale": 66
     },
     {
       "projectId": "github:1353168046",
@@ -325,10 +334,10 @@
       "project": "CREATIX-MAN",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 80 jours.",
+        "Aucune mise à jour GitHub depuis 81 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 80
+      "stale": 81
     },
     {
       "projectId": "github:1349070366",
@@ -355,10 +364,10 @@
       "project": "only-eyes",
       "score": 50,
       "findings": [
-        "Aucune mise à jour GitHub depuis 92 jours.",
+        "Aucune mise à jour GitHub depuis 93 jours.",
         "Dépôt GitHub absent du registre CR3@TIX Project ou non relié automatiquement."
       ],
-      "stale": 92
+      "stale": 93
     }
   ]
 }
